@@ -1,0 +1,374 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/iago/.gradle/caches/transforms-3/bbd1bc6fee451ff8f8f3515a6487eae3/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear.compose:compose-navigation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/5f9aff6baf1999a8948ccfa15f26dd9b/transformed/jetified-compose-navigation-1.0.0-alpha21/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.4.0] /home/iago/.gradle/caches/transforms-3/2b83d644e648c74900fc5af96ea7fb03/transformed/jetified-navigation-compose-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-compose:1.4.0] /home/iago/.gradle/caches/transforms-3/3613d7252e4b9e9ef2714f2a9b391af5/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /home/iago/.gradle/caches/transforms-3/9b50ce98a11be58839e814efe6fa265b/transformed/jetified-hilt-navigation-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] /home/iago/.gradle/caches/transforms-3/ca6cef191e4673b8cf663516f3e61baa/transformed/navigation-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] /home/iago/.gradle/caches/transforms-3/5e9f956bf7f27029115da0c8d69335a1/transformed/navigation-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/iago/.gradle/caches/transforms-3/cb3ac874afe2f654b6bf39a711d34e13/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] /home/iago/.gradle/caches/transforms-3/5f0bee956f4b831f094dd2200f8f6291/transformed/jetified-lifecycle-viewmodel-compose-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] /home/iago/.gradle/caches/transforms-3/c178d52652866155bf3d081eb26686a4/transformed/navigation-common-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.0] /home/iago/.gradle/caches/transforms-3/2de30672399fc3e23c2be4511938bd64/transformed/navigation-common-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /home/iago/.gradle/caches/transforms-3/2f413eb9e0b32f398e9eecdcdeb9cd42/transformed/jetified-lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] /home/iago/.gradle/caches/transforms-3/8dfaf1ded3476f63e05f94c4c5ccb1e6/transformed/jetified-lifecycle-runtime-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/fb952761cef043eb6c586b1563a6cd90/transformed/jetified-ui-tooling-preview-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear.compose:compose-material:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/95471bc4a6edc0ddcfdf920e8e24d678/transformed/jetified-compose-material-1.0.0-alpha21/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear.compose:compose-foundation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/dfd47cd24f04f7a69a0990fe282a0a38/transformed/jetified-compose-foundation-1.0.0-alpha21/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-extended:1.1.1] /home/iago/.gradle/caches/transforms-3/b3d7be0afb7be17b63be718701c3c160/transformed/jetified-material-icons-extended-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/77c6b047ca237d9b957d97a637b97034/transformed/jetified-material-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-ripple:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/fdeaf8b08e0ed2fbed1799765ef6d748/transformed/jetified-material-ripple-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil-compose:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/957d1c5dcd2af7aabe576e644bd9e88c/transformed/jetified-coil-compose-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-compose-base:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/bdb82f7fe20734ef573dd1172f8ac71f/transformed/jetified-coil-compose-base-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.foundation:foundation:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/07a48f84f5bff247a1de751a0ef987c7/transformed/jetified-foundation-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/78b9e22bc141a2e4ebebf3f89689f322/transformed/jetified-animation-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/daa09cf73ead3b297f77e143d55a8ea5/transformed/jetified-foundation-layout-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation-core:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/ff507dfc1db63cb61523160eb996163d/transformed/jetified-animation-core-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/9e131964255aed47aae93095bd08dc89/transformed/jetified-material-icons-core-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /home/iago/.gradle/caches/transforms-3/d8f013e9daa54f8f1ab4f27c222572c2/transformed/jetified-accompanist-drawablepainter-0.23.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/6a8663aed89265477e96f6130bc7a722/transformed/jetified-ui-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-text:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/9c73572aae9c7766da616c731dc5a981/transformed/jetified-ui-text-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/iago/.gradle/caches/transforms-3/4f8c50155d2581066761f5d48e6219b4/transformed/jetified-runtime-saveable-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/0dc868d61911888564f31a765718c026/transformed/jetified-ui-graphics-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/abf1f1b46542852cfd55724ca59f7ccb/transformed/jetified-ui-unit-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/e3f69c096a0ba480e057eab4fd1c2a79/transformed/jetified-ui-geometry-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.runtime:runtime:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/5f96d5cf40a628a34eff77ec5d708820/transformed/jetified-runtime-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [io.coil-kt:coil:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/aaca5c283086ff26765fc8f4a4c2a5ca/transformed/jetified-coil-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/eec208d92ed41eb20412654f93e9f9b1/transformed/jetified-coil-base-2.0.0-rc01/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /home/iago/.gradle/caches/transforms-3/ef5bccc91e4e1740c24174ff6c0b60e4/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.39] /home/iago/.gradle/caches/transforms-3/795cb7808616b64dba3c86c8decd585f/transformed/jetified-hilt-android-2.39/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /home/iago/.gradle/caches/transforms-3/b4f5438b2024956a83b30774ecdfe889/transformed/jetified-play-services-wearable-17.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/a55010ec7a3777d04e91e0e5de374c01/transformed/jetified-ui-util-1.2.0-alpha08/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/iago/.gradle/caches/transforms-3/e7f00f727c28b8928544f6c56619a49d/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.2] /home/iago/.gradle/caches/transforms-3/15c48bfa185c7be05abb8837f4e3e709/transformed/fragment-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.4.0] /home/iago/.gradle/caches/transforms-3/7ded90b4f5edc83b481efaf99373543d/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iago/.gradle/caches/transforms-3/0c9a0485731730f4cb15fac2a4548efc/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iago/.gradle/caches/transforms-3/9c1ff744cc39ee07025a11a861762450/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /home/iago/.gradle/caches/transforms-3/684eaca391de87acea9ebea3b18c0012/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0-beta01] /home/iago/.gradle/caches/transforms-3/ce7d729d102f108e3d8aaa8e3952da69/transformed/jetified-savedstate-ktx-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-alpha01] /home/iago/.gradle/caches/transforms-3/8872b4307fa2c3251532bec810e86228/transformed/jetified-customview-poolingcontainer-1.0.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0-beta01] /home/iago/.gradle/caches/transforms-3/adad9b07993d42e800b17b0d09852ca0/transformed/jetified-savedstate-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/iago/.gradle/caches/transforms-3/804ad57fe2dbe552873bcb7be90fa2dc/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.autofill:autofill:1.0.0] /home/iago/.gradle/caches/transforms-3/abd6c68414ab956a4d30e0474e5b363f/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iago/.gradle/caches/transforms-3/788789c13172350e5d58e7869bd7fc4d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/iago/.gradle/caches/transforms-3/4583fdb5312c1e5f05f2fc90d465a9fb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/iago/.gradle/caches/transforms-3/9815bd017db687cb05cba452dc14cd0d/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iago/.gradle/caches/transforms-3/45f0b4b5e788c5322a3fb109d5cdd82d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iago/.gradle/caches/transforms-3/41373b88300be4471bf0eecc99329d8e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] /home/iago/.gradle/caches/transforms-3/f8897a9886e5924ef665b0e1ac964b6e/transformed/lifecycle-runtime-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iago/.gradle/caches/transforms-3/5acb227ce36f84a01c1fdfd496bb848c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iago/.gradle/caches/transforms-3/e5e7245caf6282062dd02ede75344fa2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iago/.gradle/caches/transforms-3/acdfa414c44f5589f7890bd210e8e6c1/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iago/.gradle/caches/transforms-3/a38d5e9fbec561731431c5c8d49229f1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iago/.gradle/caches/transforms-3/26962546a0926cfdae61ad386dd18a18/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/iago/.gradle/caches/transforms-3/f2220085946d393faaa08265a0e36d34/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iago/.gradle/caches/transforms-3/52e0baba967bc4203480a05a9c6cb58b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.39] /home/iago/.gradle/caches/transforms-3/a27f9b3d2b98785d620be5160fe5f8f0/transformed/jetified-dagger-lint-aar-2.39/AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iago/.gradle/caches/transforms-3/7911be1d525868eb08c11cb47d37f48b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+	package
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:16:5-33
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:14:1-53:12
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:15:5-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:22-64
+uses-feature#android.hardware.type.watch
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:19-61
+application
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:23:5-52:19
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /home/iago/.gradle/caches/transforms-3/b4f5438b2024956a83b30774ecdfe889/transformed/jetified-play-services-wearable-17.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /home/iago/.gradle/caches/transforms-3/b4f5438b2024956a83b30774ecdfe889/transformed/jetified-play-services-wearable-17.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/iago/.gradle/caches/transforms-3/e7f00f727c28b8928544f6c56619a49d/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/iago/.gradle/caches/transforms-3/e7f00f727c28b8928544f6c56619a49d/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:25:5-46:19
+MERGED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iago/.gradle/caches/transforms-3/26962546a0926cfdae61ad386dd18a18/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iago/.gradle/caches/transforms-3/26962546a0926cfdae61ad386dd18a18/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:29:9-59
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:24:9-62
+uses-library#com.google.android.wearable
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:30:9-32:39
+	android:required
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:31:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:38:9-40:36
+	android:value
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:40:13-33
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:39:13-66
+activity#com.iago.pokewatch.MainActivity
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:45:13-45
+	android:exported
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:43:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:27-74
+uses-sdk
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/iago/.gradle/caches/transforms-3/bbd1bc6fee451ff8f8f3515a6487eae3/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation-compose:1.0.0] /home/iago/.gradle/caches/transforms-3/bbd1bc6fee451ff8f8f3515a6487eae3/transformed/jetified-hilt-navigation-compose-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-navigation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/5f9aff6baf1999a8948ccfa15f26dd9b/transformed/jetified-compose-navigation-1.0.0-alpha21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-navigation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/5f9aff6baf1999a8948ccfa15f26dd9b/transformed/jetified-compose-navigation-1.0.0-alpha21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0] /home/iago/.gradle/caches/transforms-3/2b83d644e648c74900fc5af96ea7fb03/transformed/jetified-navigation-compose-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.4.0] /home/iago/.gradle/caches/transforms-3/2b83d644e648c74900fc5af96ea7fb03/transformed/jetified-navigation-compose-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] /home/iago/.gradle/caches/transforms-3/3613d7252e4b9e9ef2714f2a9b391af5/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.4.0] /home/iago/.gradle/caches/transforms-3/3613d7252e4b9e9ef2714f2a9b391af5/transformed/jetified-activity-compose-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /home/iago/.gradle/caches/transforms-3/9b50ce98a11be58839e814efe6fa265b/transformed/jetified-hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-navigation:1.0.0] /home/iago/.gradle/caches/transforms-3/9b50ce98a11be58839e814efe6fa265b/transformed/jetified-hilt-navigation-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] /home/iago/.gradle/caches/transforms-3/ca6cef191e4673b8cf663516f3e61baa/transformed/navigation-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.4.0] /home/iago/.gradle/caches/transforms-3/ca6cef191e4673b8cf663516f3e61baa/transformed/navigation-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] /home/iago/.gradle/caches/transforms-3/5e9f956bf7f27029115da0c8d69335a1/transformed/navigation-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.0] /home/iago/.gradle/caches/transforms-3/5e9f956bf7f27029115da0c8d69335a1/transformed/navigation-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/iago/.gradle/caches/transforms-3/cb3ac874afe2f654b6bf39a711d34e13/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /home/iago/.gradle/caches/transforms-3/cb3ac874afe2f654b6bf39a711d34e13/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] /home/iago/.gradle/caches/transforms-3/5f0bee956f4b831f094dd2200f8f6291/transformed/jetified-lifecycle-viewmodel-compose-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.4.0] /home/iago/.gradle/caches/transforms-3/5f0bee956f4b831f094dd2200f8f6291/transformed/jetified-lifecycle-viewmodel-compose-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] /home/iago/.gradle/caches/transforms-3/c178d52652866155bf3d081eb26686a4/transformed/navigation-common-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.4.0] /home/iago/.gradle/caches/transforms-3/c178d52652866155bf3d081eb26686a4/transformed/navigation-common-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0] /home/iago/.gradle/caches/transforms-3/2de30672399fc3e23c2be4511938bd64/transformed/navigation-common-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.0] /home/iago/.gradle/caches/transforms-3/2de30672399fc3e23c2be4511938bd64/transformed/navigation-common-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /home/iago/.gradle/caches/transforms-3/2f413eb9e0b32f398e9eecdcdeb9cd42/transformed/jetified-lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /home/iago/.gradle/caches/transforms-3/2f413eb9e0b32f398e9eecdcdeb9cd42/transformed/jetified-lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] /home/iago/.gradle/caches/transforms-3/8dfaf1ded3476f63e05f94c4c5ccb1e6/transformed/jetified-lifecycle-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] /home/iago/.gradle/caches/transforms-3/8dfaf1ded3476f63e05f94c4c5ccb1e6/transformed/jetified-lifecycle-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/fb952761cef043eb6c586b1563a6cd90/transformed/jetified-ui-tooling-preview-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/fb952761cef043eb6c586b1563a6cd90/transformed/jetified-ui-tooling-preview-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-material:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/95471bc4a6edc0ddcfdf920e8e24d678/transformed/jetified-compose-material-1.0.0-alpha21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-material:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/95471bc4a6edc0ddcfdf920e8e24d678/transformed/jetified-compose-material-1.0.0-alpha21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-foundation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/dfd47cd24f04f7a69a0990fe282a0a38/transformed/jetified-compose-foundation-1.0.0-alpha21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear.compose:compose-foundation:1.0.0-alpha21] /home/iago/.gradle/caches/transforms-3/dfd47cd24f04f7a69a0990fe282a0a38/transformed/jetified-compose-foundation-1.0.0-alpha21/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.1.1] /home/iago/.gradle/caches/transforms-3/b3d7be0afb7be17b63be718701c3c160/transformed/jetified-material-icons-extended-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-extended:1.1.1] /home/iago/.gradle/caches/transforms-3/b3d7be0afb7be17b63be718701c3c160/transformed/jetified-material-icons-extended-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/77c6b047ca237d9b957d97a637b97034/transformed/jetified-material-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/77c6b047ca237d9b957d97a637b97034/transformed/jetified-material-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/fdeaf8b08e0ed2fbed1799765ef6d748/transformed/jetified-material-ripple-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-ripple:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/fdeaf8b08e0ed2fbed1799765ef6d748/transformed/jetified-material-ripple-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil-compose:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/957d1c5dcd2af7aabe576e644bd9e88c/transformed/jetified-coil-compose-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/957d1c5dcd2af7aabe576e644bd9e88c/transformed/jetified-coil-compose-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/bdb82f7fe20734ef573dd1172f8ac71f/transformed/jetified-coil-compose-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-compose-base:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/bdb82f7fe20734ef573dd1172f8ac71f/transformed/jetified-coil-compose-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.foundation:foundation:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/07a48f84f5bff247a1de751a0ef987c7/transformed/jetified-foundation-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/07a48f84f5bff247a1de751a0ef987c7/transformed/jetified-foundation-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/78b9e22bc141a2e4ebebf3f89689f322/transformed/jetified-animation-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/78b9e22bc141a2e4ebebf3f89689f322/transformed/jetified-animation-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/daa09cf73ead3b297f77e143d55a8ea5/transformed/jetified-foundation-layout-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/daa09cf73ead3b297f77e143d55a8ea5/transformed/jetified-foundation-layout-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/ff507dfc1db63cb61523160eb996163d/transformed/jetified-animation-core-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/ff507dfc1db63cb61523160eb996163d/transformed/jetified-animation-core-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/9e131964255aed47aae93095bd08dc89/transformed/jetified-material-icons-core-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material:material-icons-core:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/9e131964255aed47aae93095bd08dc89/transformed/jetified-material-icons-core-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /home/iago/.gradle/caches/transforms-3/d8f013e9daa54f8f1ab4f27c222572c2/transformed/jetified-accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.23.1] /home/iago/.gradle/caches/transforms-3/d8f013e9daa54f8f1ab4f27c222572c2/transformed/jetified-accompanist-drawablepainter-0.23.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/6a8663aed89265477e96f6130bc7a722/transformed/jetified-ui-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/6a8663aed89265477e96f6130bc7a722/transformed/jetified-ui-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/9c73572aae9c7766da616c731dc5a981/transformed/jetified-ui-text-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-text:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/9c73572aae9c7766da616c731dc5a981/transformed/jetified-ui-text-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/iago/.gradle/caches/transforms-3/4f8c50155d2581066761f5d48e6219b4/transformed/jetified-runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-saveable:1.1.1] /home/iago/.gradle/caches/transforms-3/4f8c50155d2581066761f5d48e6219b4/transformed/jetified-runtime-saveable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/0dc868d61911888564f31a765718c026/transformed/jetified-ui-graphics-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-graphics:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/0dc868d61911888564f31a765718c026/transformed/jetified-ui-graphics-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/abf1f1b46542852cfd55724ca59f7ccb/transformed/jetified-ui-unit-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-unit:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/abf1f1b46542852cfd55724ca59f7ccb/transformed/jetified-ui-unit-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/e3f69c096a0ba480e057eab4fd1c2a79/transformed/jetified-ui-geometry-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-geometry:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/e3f69c096a0ba480e057eab4fd1c2a79/transformed/jetified-ui-geometry-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/5f96d5cf40a628a34eff77ec5d708820/transformed/jetified-runtime-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/5f96d5cf40a628a34eff77ec5d708820/transformed/jetified-runtime-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [io.coil-kt:coil:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/aaca5c283086ff26765fc8f4a4c2a5ca/transformed/jetified-coil-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/aaca5c283086ff26765fc8f4a4c2a5ca/transformed/jetified-coil-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/eec208d92ed41eb20412654f93e9f9b1/transformed/jetified-coil-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.0.0-rc01] /home/iago/.gradle/caches/transforms-3/eec208d92ed41eb20412654f93e9f9b1/transformed/jetified-coil-base-2.0.0-rc01/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /home/iago/.gradle/caches/transforms-3/ef5bccc91e4e1740c24174ff6c0b60e4/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /home/iago/.gradle/caches/transforms-3/ef5bccc91e4e1740c24174ff6c0b60e4/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.39] /home/iago/.gradle/caches/transforms-3/795cb7808616b64dba3c86c8decd585f/transformed/jetified-hilt-android-2.39/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.39] /home/iago/.gradle/caches/transforms-3/795cb7808616b64dba3c86c8decd585f/transformed/jetified-hilt-android-2.39/AndroidManifest.xml:18:3-42
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /home/iago/.gradle/caches/transforms-3/b4f5438b2024956a83b30774ecdfe889/transformed/jetified-play-services-wearable-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] /home/iago/.gradle/caches/transforms-3/b4f5438b2024956a83b30774ecdfe889/transformed/jetified-play-services-wearable-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/a55010ec7a3777d04e91e0e5de374c01/transformed/jetified-ui-util-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/a55010ec7a3777d04e91e0e5de374c01/transformed/jetified-ui-util-1.2.0-alpha08/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/iago/.gradle/caches/transforms-3/e7f00f727c28b8928544f6c56619a49d/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] /home/iago/.gradle/caches/transforms-3/e7f00f727c28b8928544f6c56619a49d/transformed/jetified-play-services-tasks-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.2] /home/iago/.gradle/caches/transforms-3/15c48bfa185c7be05abb8837f4e3e709/transformed/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] /home/iago/.gradle/caches/transforms-3/15c48bfa185c7be05abb8837f4e3e709/transformed/fragment-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/iago/.gradle/caches/transforms-3/7ded90b4f5edc83b481efaf99373543d/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/iago/.gradle/caches/transforms-3/7ded90b4f5edc83b481efaf99373543d/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iago/.gradle/caches/transforms-3/0c9a0485731730f4cb15fac2a4548efc/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iago/.gradle/caches/transforms-3/0c9a0485731730f4cb15fac2a4548efc/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/iago/.gradle/caches/transforms-3/9c1ff744cc39ee07025a11a861762450/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iago/.gradle/caches/transforms-3/9c1ff744cc39ee07025a11a861762450/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /home/iago/.gradle/caches/transforms-3/684eaca391de87acea9ebea3b18c0012/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /home/iago/.gradle/caches/transforms-3/684eaca391de87acea9ebea3b18c0012/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0-beta01] /home/iago/.gradle/caches/transforms-3/ce7d729d102f108e3d8aaa8e3952da69/transformed/jetified-savedstate-ktx-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0-beta01] /home/iago/.gradle/caches/transforms-3/ce7d729d102f108e3d8aaa8e3952da69/transformed/jetified-savedstate-ktx-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-alpha01] /home/iago/.gradle/caches/transforms-3/8872b4307fa2c3251532bec810e86228/transformed/jetified-customview-poolingcontainer-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0-alpha01] /home/iago/.gradle/caches/transforms-3/8872b4307fa2c3251532bec810e86228/transformed/jetified-customview-poolingcontainer-1.0.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0-beta01] /home/iago/.gradle/caches/transforms-3/adad9b07993d42e800b17b0d09852ca0/transformed/jetified-savedstate-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0-beta01] /home/iago/.gradle/caches/transforms-3/adad9b07993d42e800b17b0d09852ca0/transformed/jetified-savedstate-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/iago/.gradle/caches/transforms-3/804ad57fe2dbe552873bcb7be90fa2dc/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/iago/.gradle/caches/transforms-3/804ad57fe2dbe552873bcb7be90fa2dc/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/iago/.gradle/caches/transforms-3/abd6c68414ab956a4d30e0474e5b363f/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /home/iago/.gradle/caches/transforms-3/abd6c68414ab956a4d30e0474e5b363f/transformed/jetified-autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iago/.gradle/caches/transforms-3/788789c13172350e5d58e7869bd7fc4d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iago/.gradle/caches/transforms-3/788789c13172350e5d58e7869bd7fc4d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iago/.gradle/caches/transforms-3/4583fdb5312c1e5f05f2fc90d465a9fb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iago/.gradle/caches/transforms-3/4583fdb5312c1e5f05f2fc90d465a9fb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/iago/.gradle/caches/transforms-3/9815bd017db687cb05cba452dc14cd0d/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/iago/.gradle/caches/transforms-3/9815bd017db687cb05cba452dc14cd0d/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iago/.gradle/caches/transforms-3/45f0b4b5e788c5322a3fb109d5cdd82d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iago/.gradle/caches/transforms-3/45f0b4b5e788c5322a3fb109d5cdd82d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iago/.gradle/caches/transforms-3/41373b88300be4471bf0eecc99329d8e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iago/.gradle/caches/transforms-3/41373b88300be4471bf0eecc99329d8e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] /home/iago/.gradle/caches/transforms-3/f8897a9886e5924ef665b0e1ac964b6e/transformed/lifecycle-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] /home/iago/.gradle/caches/transforms-3/f8897a9886e5924ef665b0e1ac964b6e/transformed/lifecycle-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iago/.gradle/caches/transforms-3/5acb227ce36f84a01c1fdfd496bb848c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iago/.gradle/caches/transforms-3/5acb227ce36f84a01c1fdfd496bb848c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iago/.gradle/caches/transforms-3/e5e7245caf6282062dd02ede75344fa2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iago/.gradle/caches/transforms-3/e5e7245caf6282062dd02ede75344fa2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iago/.gradle/caches/transforms-3/acdfa414c44f5589f7890bd210e8e6c1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iago/.gradle/caches/transforms-3/acdfa414c44f5589f7890bd210e8e6c1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iago/.gradle/caches/transforms-3/a38d5e9fbec561731431c5c8d49229f1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iago/.gradle/caches/transforms-3/a38d5e9fbec561731431c5c8d49229f1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iago/.gradle/caches/transforms-3/26962546a0926cfdae61ad386dd18a18/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iago/.gradle/caches/transforms-3/26962546a0926cfdae61ad386dd18a18/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/iago/.gradle/caches/transforms-3/f2220085946d393faaa08265a0e36d34/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /home/iago/.gradle/caches/transforms-3/f2220085946d393faaa08265a0e36d34/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iago/.gradle/caches/transforms-3/52e0baba967bc4203480a05a9c6cb58b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iago/.gradle/caches/transforms-3/52e0baba967bc4203480a05a9c6cb58b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.39] /home/iago/.gradle/caches/transforms-3/a27f9b3d2b98785d620be5160fe5f8f0/transformed/jetified-dagger-lint-aar-2.39/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.39] /home/iago/.gradle/caches/transforms-3/a27f9b3d2b98785d620be5160fe5f8f0/transformed/jetified-dagger-lint-aar-2.39/AndroidManifest.xml:18:3-42
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iago/.gradle/caches/transforms-3/7911be1d525868eb08c11cb47d37f48b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iago/.gradle/caches/transforms-3/7911be1d525868eb08c11cb47d37f48b/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		ADDED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iago/.gradle/caches/transforms-3/a3a339d20c560e9e0eae06171914240d/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:27:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:32:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:36:9-45:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:39:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:41:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:37:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:42:13-44:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:43:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:43:25-88

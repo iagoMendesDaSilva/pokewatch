@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/iago/Documents/pokewatch/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/home/iago/.gradle/caches/transforms-3/6a8663aed89265477e96f6130bc7a722/transformed/jetified-ui-1.2.0-alpha08/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,181,255,343,434,512,586,669,747,821,884,947,1020,1095,1162,1227",
+                        "endColumns": "75,73,87,90,77,73,82,77,73,62,62,72,74,66,64,115",
+                        "endOffsets": "176,250,338,429,507,581,664,742,816,879,942,1015,1090,1157,1222,1338"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,32,33,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,181,2570,2658,2749,2827,2901,2984,3062,3136,3199,3262,3335,3410,3578,3643",
+                        "endColumns": "75,73,87,90,77,73,82,77,73,62,62,72,74,66,64,115",
+                        "endOffsets": "176,250,2653,2744,2822,2896,2979,3057,3131,3194,3257,3330,3405,3472,3638,3754"
+                    }
+                },
+                {
+                    "source": "/home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3477",
+                        "endColumns": "100",
+                        "endOffsets": "3573"
+                    }
+                },
+                {
+                    "source": "/home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1277",
+                        "endColumns": "166",
+                        "endOffsets": "1439"
+                    }
+                },
+                {
+                    "source": "/home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "249,348,508,621,721,887,1001,1129,1247,1416,1515,1675,1788,1954,2088,2169,2252",
+                        "endColumns": "98,159,112,99,165,113,127,117,168,98,159,112,165,133,80,82,96",
+                        "endOffsets": "347,507,620,720,886,1000,1128,1246,1415,1514,1674,1787,1953,2087,2168,2251,2348"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "255,358,518,635,739,905,1023,1155,1444,1613,1716,1876,1993,2159,2297,2382,2469",
+                        "endColumns": "102,159,116,103,165,117,131,121,168,102,159,116,165,137,84,86,100",
+                        "endOffsets": "353,513,630,734,900,1018,1150,1272,1608,1711,1871,1988,2154,2292,2377,2464,2565"
+                    }
+                }
+            ]
+        }
+    ]
+}

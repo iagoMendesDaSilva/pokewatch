@@ -1,0 +1,151 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3     Copyright (C) 2021 The Android Open Source Project
+4     Licensed under the Apache License, Version 2.0 (the "License");
+5     you may not use this file except in compliance with the License.
+6     You may obtain a copy of the License at
+7          http://www.apache.org/licenses/LICENSE-2.0
+8     Unless required by applicable law or agreed to in writing, software
+9     distributed under the License is distributed on an "AS IS" BASIS,
+10     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+11     See the License for the specific language governing permissions and
+12     limitations under the License.
+13-->
+14<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+15    package="com.iago.pokewatch"
+16    android:versionCode="2"
+17    android:versionName="1.0.0.1" >
+18
+19    <uses-sdk
+20        android:minSdkVersion="26"
+20-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+21        android:targetSdkVersion="30" />
+21-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml
+22
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:5-68
+23-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:18:22-65
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:5-66
+24-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:19:22-64
+25
+26    <uses-feature android:name="android.hardware.type.watch" />
+26-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:5-64
+26-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:21:19-61
+27
+28    <application
+28-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:23:5-52:19
+29        android:name="com.iago.pokewatch.PokeWatchApplication"
+29-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:24:9-63
+30        android:allowBackup="true"
+30-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:25:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.7.0] /home/iago/.gradle/caches/transforms-3/84362be3eca50f087fef24640f5e62a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:icon="@mipmap/ic_launcher"
+34-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:26:9-43
+35        android:label="@string/app_name"
+35-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:27:9-41
+36        android:supportsRtl="true"
+36-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:28:9-35
+37        android:testOnly="true"
+38        android:theme="@android:style/Theme.DeviceDefault" >
+38-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:29:9-59
+39        <uses-library
+39-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:30:9-32:39
+40            android:name="com.google.android.wearable"
+40-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:31:13-55
+41            android:required="true" />
+41-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:32:13-36
+42
+43        <!--
+44               Set to true if your app is Standalone, that is, it does not require the handheld
+45               app to run.
+46        -->
+47        <meta-data
+47-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:38:9-40:36
+48            android:name="com.google.android.wearable.standalone"
+48-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:39:13-66
+49            android:value="true" />
+49-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:40:13-33
+50
+51        <activity
+51-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:42:9-51:20
+52            android:name="com.iago.pokewatch.MainActivity"
+52-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:43:13-59
+53            android:exported="true"
+53-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:44:13-36
+54            android:label="@string/app_name" >
+54-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:45:13-45
+55            <intent-filter>
+55-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:46:13-50:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:17-69
+56-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:47:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:17-77
+58-->/home/iago/Documents/pokewatch/app/src/main/AndroidManifest.xml:49:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->[androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:25:9-27:39
+62            android:name="androidx.compose.ui.tooling.PreviewActivity"
+62-->[androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:26:13-71
+63            android:exported="true" />
+63-->[androidx.compose.ui:ui-tooling:1.2.0-alpha08] /home/iago/.gradle/caches/transforms-3/33862ed74ec9ffd2204ec538cd9221ec/transformed/jetified-ui-tooling-1.2.0-alpha08/AndroidManifest.xml:27:13-36
+64        <activity
+64-->[com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:23:9-26:75
+65            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+65-->[com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:24:13-79
+66            android:exported="false"
+66-->[com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:25:13-37
+67            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+67-->[com.google.android.gms:play-services-base:17.5.0] /home/iago/.gradle/caches/transforms-3/a26c6265feaf0ac9f43d457bf803af06/transformed/jetified-play-services-base-17.5.0/AndroidManifest.xml:26:13-72
+68
+69        <meta-data
+69-->[com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:23:9-25:69
+70            android:name="com.google.android.gms.version"
+70-->[com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:24:13-58
+71            android:value="@integer/google_play_services_version" />
+71-->[com.google.android.gms:play-services-basement:17.5.0] /home/iago/.gradle/caches/transforms-3/c9eb8d783f941a9f1b5d1df44cc73fdc/transformed/jetified-play-services-basement-17.5.0/AndroidManifest.xml:25:13-66
+72
+73        <provider
+73-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:26:9-34:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:27:13-67
+75            android:authorities="com.iago.pokewatch.androidx-startup"
+75-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:28:13-68
+76            android:exported="false" >
+76-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:29:13-37
+77            <meta-data
+77-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:31:13-33:52
+78                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+78-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:32:17-85
+79                android:value="androidx.startup" />
+79-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:33:17-49
+80        </provider>
+81
+82        <receiver
+82-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:36:9-45:20
+83            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+83-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:37:13-76
+84            android:directBootAware="false"
+84-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:38:13-44
+85            android:enabled="true"
+85-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:39:13-35
+86            android:exported="true"
+86-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:40:13-36
+87            android:permission="android.permission.DUMP" >
+87-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:41:13-57
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:42:13-44:29
+89                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+89-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:43:17-91
+89-->[androidx.profileinstaller:profileinstaller:1.2.0-alpha02] /home/iago/.gradle/caches/transforms-3/e4dec4dc5ddc37762295ce72255bf5e9/transformed/jetified-profileinstaller-1.2.0-alpha02/AndroidManifest.xml:43:25-88
+90            </intent-filter>
+91        </receiver>
+92    </application>
+93
+94</manifest>

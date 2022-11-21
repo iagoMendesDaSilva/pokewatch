@@ -1,0 +1,3711 @@
+Marking drawable:abc_vector_test:2131099648 reachable: referenced from base/dex/classes.dex
+Marking drawable:water:2131099704 reachable: referenced from base/dex/classes.dex
+Marking drawable:steel:2131099703 reachable: referenced from base/dex/classes.dex
+Marking drawable:grass:2131099681 reachable: referenced from base/dex/classes.dex
+Marking drawable:ghost:2131099678 reachable: referenced from base/dex/classes.dex
+Marking drawable:fairy:2131099674 reachable: referenced from base/dex/classes.dex
+Marking drawable:rock:2131099702 reachable: referenced from base/dex/classes.dex
+Marking drawable:fire:2131099676 reachable: referenced from base/dex/classes.dex
+Marking drawable:dark:2131099671 reachable: referenced from base/dex/classes.dex
+Marking drawable:ice:2131099684 reachable: referenced from base/dex/classes.dex
+Marking drawable:bug:2131099649 reachable: referenced from base/dex/classes.dex
+Marking drawable:eletric:2131099673 reachable: referenced from base/dex/classes.dex
+Marking drawable:psychic:2131099699 reachable: referenced from base/dex/classes.dex
+Marking drawable:fighting:2131099675 reachable: referenced from base/dex/classes.dex
+Marking drawable:poison:2131099698 reachable: referenced from base/dex/classes.dex
+Marking drawable:normal:2131099685 reachable: referenced from base/dex/classes.dex
+Marking drawable:ground:2131099682 reachable: referenced from base/dex/classes.dex
+Marking drawable:flying:2131099677 reachable: referenced from base/dex/classes.dex
+Marking drawable:dragon:2131099672 reachable: referenced from base/dex/classes.dex
+Marking id:coil_request_manager:2131230765 reachable: referenced from base/dex/classes.dex
+Marking id:compose_view_saveable_id_tag:2131230766 reachable: referenced from base/dex/classes.dex
+Marking id:tag_unhandled_key_listeners:2131230809 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_saved_state_registry_owner:2131230816 reachable: referenced from base/dex/classes.dex
+Marking attr:alpha:2130903041 reachable: referenced from base/dex/classes.dex
+Marking attr:lStar:2130903065 reachable: referenced from base/dex/classes.dex
+Marking string:androidx_startup:2131558400 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_enable_button:2131558404 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_update_button:2131558414 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_install_button:2131558407 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_notification_ticker:2131558411 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_notification_channel_name:2131558410 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_lifecycle_owner:2131230815 reachable: referenced from base/dex/classes.dex
+Marking string:error_default:2131558425 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_view_model_store_owner:2131230817 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_0:2131230721 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_1:2131230722 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_2:2131230733 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_3:2131230744 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_4:2131230747 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_5:2131230748 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_6:2131230749 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_7:2131230750 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_8:2131230751 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_9:2131230752 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_10:2131230723 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_11:2131230724 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_12:2131230725 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_13:2131230726 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_14:2131230727 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_15:2131230728 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_16:2131230729 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_17:2131230730 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_18:2131230731 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_19:2131230732 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_20:2131230734 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_21:2131230735 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_22:2131230736 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_23:2131230737 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_24:2131230738 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_25:2131230739 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_26:2131230740 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_27:2131230741 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_28:2131230742 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_29:2131230743 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_30:2131230745 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_31:2131230746 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_unknown_issue:2131558412 reachable: referenced from base/dex/classes.dex
+Marking id:special_effects_controller_view_tag:2131230796 reachable: referenced from base/dex/classes.dex
+Marking id:is_pooling_container_tag:2131230778 reachable: referenced from base/dex/classes.dex
+Marking id:inspection_slot_table_set:2131230777 reachable: referenced from base/dex/classes.dex
+Marking string:icon_reload:2131558427 reachable: referenced from base/dex/classes.dex
+Marking id:hide_in_inspector_tag:2131230772 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_enable_title:2131558406 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_update_title:2131558416 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_install_title:2131558409 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_updating_text:2131558417 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_unsupported_text:2131558413 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_enable_text:2131558405 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_update_text:2131558415 reachable: referenced from base/dex/classes.dex
+Marking string:common_google_play_services_install_text:2131558408 reachable: referenced from base/dex/classes.dex
+Marking id:tag_unhandled_key_event_manager:2131230808 reachable: referenced from base/dex/classes.dex
+Marking id:wrapped_composition_tag:2131230820 reachable: referenced from base/dex/classes.dex
+Marking id:tag_screen_reader_focusable:2131230805 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_heading:2131230800 reachable: referenced from base/dex/classes.dex
+Marking id:tag_state_description:2131230806 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_actions:2131230798 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_action_clickable_span:2131230720 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_clickable_spans:2131230799 reachable: referenced from base/dex/classes.dex
+Marking id:visible_removing_fragment_view_tag:2131230818 reachable: referenced from base/dex/classes.dex
+Marking id:pooling_container_listener_holder_tag:2131230793 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_pane_title:2131230801 reachable: referenced from base/dex/classes.dex
+Marking id:fragment_container_view_tag:2131230771 reachable: referenced from base/dex/classes.dex
+Marking id:tag_window_insets_animation_callback:2131230810 reachable: referenced from base/dex/classes.dex
+Marking id:tag_on_apply_window_listener:2131230802 reachable: referenced from base/dex/classes.dex
+Marking id:androidx_compose_ui_view_composition_context:2131230760 reachable: referenced from base/dex/classes.dex
+Marking animator:fragment_close_enter:2130837504 reachable: referenced from base/dex/classes.dex
+Marking animator:fragment_close_exit:2130837505 reachable: referenced from base/dex/classes.dex
+Marking animator:fragment_fade_enter:2130837506 reachable: referenced from base/dex/classes.dex
+Marking animator:fragment_fade_exit:2130837507 reachable: referenced from base/dex/classes.dex
+Marking animator:fragment_open_enter:2130837508 reachable: referenced from base/dex/classes.dex
+Marking animator:fragment_open_exit:2130837509 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderAuthority:2130903052 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderCerts:2130903053 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderFetchStrategy:2130903054 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderFetchTimeout:2130903055 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderPackage:2130903056 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderQuery:2130903057 reachable: referenced from base/dex/classes.dex
+Marking attr:fontProviderSystemFontFamily:2130903058 reachable: referenced from base/dex/classes.dex
+Marking attr:font:2130903051 reachable: referenced from base/dex/classes.dex
+Marking attr:fontStyle:2130903059 reachable: referenced from base/dex/classes.dex
+Marking attr:fontVariationSettings:2130903060 reachable: referenced from base/dex/classes.dex
+Marking attr:fontWeight:2130903061 reachable: referenced from base/dex/classes.dex
+Marking attr:ttcIndex:2130903083 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_black:2131165184 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_blackitalic:2131165185 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_bold:2131165186 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_bolditalic:2131165187 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_extrabold:2131165188 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_extrabolditalic:2131165189 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_extralight:2131165190 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_extralightitalic:2131165191 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_italic:2131165192 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_light:2131165193 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_lightitalic:2131165194 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_medium:2131165195 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_mediumitalic:2131165196 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_regular:2131165197 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_semibold:2131165198 reachable: referenced from base/dex/classes.dex
+Marking font:nunito_semibolditalic:2131165199 reachable: referenced from base/dex/classes.dex
+Marking string:tab:2131558438 reachable: referenced from base/dex/classes.dex
+Marking string:indeterminate:2131558429 reachable: referenced from base/dex/classes.dex
+Marking string:off:2131558432 reachable: referenced from base/dex/classes.dex
+Marking string:on:2131558433 reachable: referenced from base/dex/classes.dex
+Marking string:selected:2131558436 reachable: referenced from base/dex/classes.dex
+Marking string:not_selected:2131558431 reachable: referenced from base/dex/classes.dex
+Marking string:template_percent:2131558439 reachable: referenced from base/dex/classes.dex
+Marking string:in_progress:2131558428 reachable: referenced from base/dex/classes.dex
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+trustRootIndex
+androidx.compose.animation.core.Trans...
+edgeEffect
+UTF_16LE
+androidx.compose.ui.text.font.Android...
+java.lang.Integer
+BrightnessValue
+kotlinx.coroutines.flow.FlowKt__Limit...
+androidx.compose.foundation.Focusable...
+MemoryCacheService
+android.graphics.drawable.ColorStateL...
+TAKEN
+layoutDirection
+$this$item
+LocalContext.current.resources
+com.android.contacts
+googleSignInAccount
+Wrapper.android.kt
+java.lang.CharSequence
+STOP
+text/xml
+CONNECTION_SUSPENDED_DURING_CALL
+kotlinx.coroutines.flow.FlowKt__Limit...
+coil.RealImageLoader$enqueue$job$1
+Orientation
+0
+1
+textSelectionRange
+applier
+size
+AspectFrame
+ACTION_PRESS_AND_HOLD
+kotlinx.coroutines.DefaultExecutor
+left
+KotlinExtensions.kt
+JvmSystemFileSystem
+role
+contentPadding
+displayName
+BEGIN_OBJECT
+kotlinx.coroutines.flow.SubscribedFlo...
+ImageLength
+record.loggerName
+SwipeDismissableNavHost.kt
+sizeAnimation
+PKIX
+SignInClientImpl
+result
+DeferredAnimation
+S
+NumberPassword
+image/heif
+AccountAccessor
+image/heic
+_
+policy
+kotlinx.coroutines.flow.FlowKt__LimitKt
+a
+b
+Center
+address
+ACTION_CLEAR_ACCESSIBILITY_FOCUS
+SUCCESS
+c
+d
+Infinity
+e
+M10500
+truncated
+com.iago.pokewatch.screens.home.HomeV...
+i
+kotlin.String
+OnClick
+cookieJar
+m
+n
+r
+DRIVE_EXTERNAL_STORAGE_REQUIRED
+t
+java.lang.Module
+SUSPEND
+kotlinx.coroutines.flow.DistinctFlowI...
+v
+cipherSuites
+x
+ProgressBarRangeInfo
+RealImageLoader
+Start
+POST
+ColorSpace
+rippleHostView
+PRIORITY
+mimeType
+image/webp
+isTagEnabled
+Checkbox
+removeMethod
+Multiply
+com.android.org.conscrypt.OpenSSLSock...
+android:style
+ACTION_SCROLL_FORWARD
+SIGN_IN_REQUIRED
+scalingLazyListState
+view.attributeSourceResourceMap
+Optional
+runCached
+SIGN_IN_FAILED
+H2_PRIOR_KNOWLEDGE
+androidx.compose.animation.AnimatedVi...
+TLS_PSK_WITH_AES_128_CBC_SHA
+com.google.android.gms.signin.interna...
+list
+Rgb
+UNSET_PRIMARY_NAV
+pokemons
+slots
+$this$setNativeStrokeJoin
+DateTimeDigitized
+Bottom
+End
+androidx.compose.material.ripple.Ripp...
+child
+manning
+androidx.view.accessibility.Accessibi...
+repeatMode
+applied
+COMPLETING_WAITING_CHILDREN
+RESULT_BASELINE_PROFILE_NOT_FOUND
+_invoked
+medium
+$this$focusProperties
+keyInfo
+remove
+SDK_INT
+unsupported
+provider
+root
+atomicMove
+kotlinx.coroutines.flow.FlowKt__Reduc...
+rhannah
+kotlinx.coroutines.main.delay
+NaN
+androidx.compose.foundation.lazy.Lazy...
+_delayed
+indexItem
+owner.defaultViewModelProviderFactory
+Age
+GlobalSnapshotManager.android.kt
+headers
+deqIdx
+kotlin.collections.List
+$this$invoke
+A70AXLTMO
+compose:lazylist:prefetch:measure
+GPSImgDirection
+org.bouncycastle.jsse.provider.Bouncy...
+$this$listSaver
+listState
+androidx.compose.foundation.text.Text...
+allScopes
+viewModelStoreOwner.viewModelStore
+hashMap
+locals
+ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+DeactivatedParent
+android.view.View$AttachInfo
+java.lang.Float
+GPSDifferential
+Dispatchers.IO
+N5702L
+BV9500
+digestBytes
+InactivePendingWork
+EmptyQueue
+SharingStarted.Eagerly
+TransformOriginInterruptionHandling
+androidx.compose.foundation.gestures....
+android.os.Build$VERSION
+android:cancelable
+ImageWidth
+SERVICE_MISSING
+HTTP/1.0
+okhttp3.mockwebserver.MockWebServer
+HTTP/1.1
+block
+initialType
+spdy/3.1
+write
+StateDescription
+HomeScreen
+SensorLeftBorder
+GPSDestLatitudeRef
+serverProviderClass
+TLS_KRB5_WITH_DES_CBC_SHA
+proceed
+LOCKED
+toggleableState
+byte
+androidx.compose.animation.core.Mutat...
+vectorTail
+androidx.compose.foundation.gestures....
+Square
+GPSStatus
+connectionSpecs
+androidx.compose.foundation.gestures....
+attrs
+Modulate
+defaultGoogleSignInAccount
+SSL_DHE_RSA_WITH_DES_CBC_SHA
+RCT6513W87DK5e
+$this$animateFloat
+XResolution
+YCbCrCoefficients
+%2B
+Hoverable.kt
+binary
+androidx.compose.ui.text.font.AsyncFo...
+kotlinx.coroutines.flow.internal.Chan...
+taskRunner
+$this$SwipeToDismissBox
+TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SH...
+isHovered
+Warning
+sslSocket.enabledProtocols
+INADEQUATE_SECURITY
+MaxApertureValue
+inlineContents
+pins
+GoogleApiAvailability
+%s.%sParcelizer
+androidx.compose.material.ripple.Ripp...
+U5A_PLUS_4G
+androidx.wear.compose.material.Swipea...
+toWrap
+androidx.wear.compose.material.Swipea...
+HEADERS
+ACTION_PAGE_UP
+it.parameterTypes
+mNextServedView
+peer
+onFrame
+%2e
+sslParameters
+targetValue
+POLL_FAILED
+java.lang.String
+ExifIFDPointer
+EngineInterceptor.kt
+%40
+BasePendingResult
+HorizontalScrollAxisRange
+ADDING
+SSL_RSA_WITH_RC4_128_MD5
+Unspecified
+Default
+$this$isOutOfBounds
+BCJSSE
+ONLINE
+SharedFlow.kt
+invisible_actions
+comparator
+multipart/alternative
+android.intent.action.TIME_TICK
+$this$toImmutableMap
+nora_8917
+Lighten
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+ExifVersion
+All
+New
+androidx.compose.animation.core.Anima...
+androidx.compose.ui.input.nestedscrol...
+G3212
+putMethod
+android.intent.action.TIME_SET
+cipherSuite
+decode
+UNLOCK_FAIL
+Copyright
+getApplicationProtocol
+android.widget.CheckBox
+com.google.android.gms.signin.interna...
+translateY
+Async
+translateX
+okhttp.OkHttpClient
+androidx.compose.foundation.gestures....
+android.view.accessibility.extra.DATA...
+Plus
+injectedContext
+kotlinx.coroutines.flow.FlowKt__Chann...
+void
+G3221
+scrollableState
+coil.intercept.RealInterceptorChain
+G3223
+supportedCipherSuites
+G3226
+_cur
+mStableInsets
+READ
+android.car.EXTENSIONS
+200
+OFFER_SUCCESS
+204
+RippleAnimation.kt
+StructuralEqualityPolicy
+206
+SensitivityType
+END_ARRAY
+$this$withSuppressed
+androidx.compose.ui.platform.WrappedC...
+androidx.compose.ui.platform.WrappedC...
+FontListFontFamilyTypefaceAdapter.kt
+kotlin.Throwable
+RequestFocus
+parkedWorkersStack
+extraDataKey
+Horizontal
+UPPER_CAMEL_CASE
+TLS_ECDH_anon_WITH_AES_256_CBC_SHA
+NO_VALUE
+context.resources.configuration
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+InMeasureBlock
+SSLv3
+androidx.compose.ui.text.font.FontLis...
+kotlin.Annotation
+com.google.android.gms.signin.interna...
+defaultFactory
+DEAD_CLIENT
+GPSTrackRef
+RCT6B03W13
+RCT6B03W12
+platformLocale
+$this$composed
+measurable
+Invalid
+direction
+TLS_PSK_WITH_AES_256_CBC_SHA
+High
+%6s
+BITMAP
+SubjectLocation
+RealImageLoader.kt
+$this$clickable
+API_NOT_CONNECTED
+ENHANCE_YOUR_CALM
+focusModifier
+newConfig
+Array
+DigitalZoomRatio
+RECONNECTION_TIMED_OUT
+ATTACH
+jvmVersion
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+setValue
+timeFormat
+UNKNOWN
+androidx.compose.foundation.gestures....
+getPokemons
+DstOut
+StateFlow.kt
+$this$setNativeStyle
+common_google_play_services_sign_in_f...
+accessibility
+endColor
+Bradford
+com.google.android.gms.common.interna...
+quic
+STOP_AND_RESET_REPLAY_CACHE
+processDragStop
+impl
+BV6800Pro
+hostname
+centerColor
+CONNECT_ERROR
+kotlinx.coroutines.scheduler.keep.ali...
+DiskLruCache.kt
+TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384
+state
+androidx.compose.foundation.Clickable...
+CompanionObject
+$this$invertTo
+pointers
+element
+%8s
+pending_intent
+ACTION_SCROLL_DOWN
+android.content.extra.SIZE
+Reduce.kt
+android.view.ViewRootImpl
+mcv1s
+$tmp0
+OPTIONS
+TextDecoration.
+.class
+ScalingLazyListAnchorType.ItemStart
+GPSImgDirectionRef
+cacheResponse
+input
+InteroperabilityIndex
+FocalPlaneYResolution
+aljeter
+remoteInputs
+layerBlock
+typefaceRequestCache
+dalvik.system.CloseGuard
+flingBehavior
+anim
+GPSDestDistanceRef
+$this$BoxWithConstraints
+mcv5a
+crossAxisAlignment
+CollectionInfo
+$this$calculateMouseWheelScroll
+Rtl
+GetTextLayoutResult
+android.hardware.type.automotive
+waitForUpOrCancellation
+colors
+removedModifiers
+ToggleableState
+openReadOnly
+bringIntoView
+TLS_ECDHE_PSK_WITH_CHACHA20_POLY1305_...
+builder
+liveRegion
+DstIn
+getParent
+itemContentFactory
+WhitePoint
+NestedScrollModifier.kt
+gradient
+Connection
+androidx.wear.compose.material.Swipea...
+onInvalidateRipple
+newModifiers
+refresh
+Normal
+androidx.lifecycle.ViewModelProvider....
+runnable
+GOAWAY
+lhs
+Assertive
+Vary
+PaneTitle
+chars
+mcv7a
+converter
+source
+$this$canonicalize
+secure
+align
+androidx.compose.foundation.Clickable...
+Compose:Composer.dispose
+rootCoordinates
+Compose
+java.lang.Short
+Search
+android.widget.Button
+androidx.compose.foundation.gestures....
+Oklab
+androidx.view.accessibility.Accessibi...
+REPLACE
+Eraser
+markState
+interceptors
+brush
+androidx.compose.material.ripple.Ripp...
+effectCoroutineContext
+androidx.compose.material.ripple.Ripp...
+androidx.compose.material.ripple.Ripp...
+weight
+SwipeToDismissBox.kt
+NAME
+FragmentManager
+HandlerCompat
+androidx.compose.foundation.Hoverable...
+androidx.compose.foundation.Hoverable...
+currentSemanticsNodes
+Medium
+TLS_CHACHA20_POLY1305_SHA256
+receiver$0
+CLIENT_TELEMETRY
+$this$readBomAsCharset
+coil.disk.DiskLruCache$launchCleanup$1
+isTaken
+TLS_KRB5_EXPORT_WITH_RC4_40_SHA
+common_google_play_services_network_e...
+common_google_play_services_invalid_a...
+FIRSTSTRONG_LTR
+_isTerminated
+GPSDateStamp
+TextSelectionRange
+tint
+Stylus
+SEALED
+coil.RealImageLoader$executeMain$resu...
+CREATED
+ContentOrRtl
+st18c10bnn
+TLSv1.3
+TLS_KRB5_WITH_RC4_128_MD5
+TLSv1.2
+TLSv1.1
+SHOW
+Password
+TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384
+SubfileType
+prefetchState
+DNGVersion
+yes
+rotation
+INTERNAL_ERROR
+PositionIndicator.kt
+Focusable.kt
+generic
+pair
+Paragraph
+endY
+endX
+UTF_16BE
+com.google.android.gms.signin.interna...
+short
+Sentences
+startY
+FALSE
+startX
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA
+createDefaultTypeface
+ApertureValue
+COMPLETING_RETRY
+kotlinx.coroutines.flow.FlowKt__Limit...
+jeter
+com.google.android.gms.common.interna...
+j7maxlte
+androidx.wear.compose.material.Swipea...
+TLS_AES_128_CCM_SHA256
+$this$swipeable
+moduleName
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA256
+android.widget.RadioButton
+android.widget.ImageView
+ACCESSIBILITY_CLICKABLE_SPAN_ID
+circles
+androidx.compose.animation.core.Infin...
+NotUsed
+imeAction
+put
+ACTION_PAGE_LEFT
+forEachGesture
+YResolution
+SSL_RSA_WITH_DES_CBC_SHA
+%2e%2e
+TLS_DHE_RSA_WITH_AES_128_GCM_SHA256
+androidx.compose.foundation.Focusable...
+androidx.compose.foundation.Focusable...
+androidx.compose.foundation.Focusable...
+options
+newSemanticsNodes
+$this$percentDecode
+enter
+ACTION_SHOW_ON_SCREEN
+FileDescriptorCounter
+tokenId
+tlsVersion
+ProduceState.kt
+PreEnter
+emitAbort$FlowKt__LimitKt
+customActions
+title1
+title2
+title3
+priority
+CustomActions
+ANYRTL_LTR
+strokeLineJoin
+ASUS_X018_4
+$this$toPathString
+GET
+$this$ScalingLazyColumnItemWrapper
+common_google_play_services_api_unava...
+.apk
+unicodeDomain
+bringIntoViewRequester
+SharingStarted.Lazily
+CONTINUATION
+CurvedModifier
+java.lang.Throwable
+androidx.compose.foundation.gestures....
+swipeToDismissBoxState
+Power_5
+FragmentManager:
+$this$dispatchScroll
+androidx.compose.runtime.SnapshotStat...
+owner.lifecycle
+Rounded.Refresh
+unknown
+proxySelector
+$this$toQueryString
+android.widget.SeekBar
+INITIALIZED
+awaiter
+producerIndex
+REMOVE
+theme
+CFAPattern
+SSL_DH_anon_EXPORT_WITH_DES40_CBC_SHA
+GPSDestBearingRef
+semanticsNode
+chain
+serverAuthCode
+END_DOCUMENT
+peerSettings
+com.google.android.gms.common.interna...
+$this$setBackground
+SBYTE
+targetBytes
+$this$toCanonicalHost
+.immediate
+fetch
+abandoning
+char
+savedStates
+clipPathData
+/index.html
+None
+small
+android_asset
+ali_n
+androidx.wear.compose.material.Swipea...
+PENTAX
+TLS_DHE_DSS_WITH_AES_128_CBC_SHA256
+errorCode
+Bevel
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+kotlinx.coroutines.channels.AbstractC...
+RESULT_INSTALL_SUCCESS
+Send
+CollectionItemInfo
+imageVector
+com.google.android.gms.common.interna...
+BoundReached
+KEY_COMPONENT_ACTIVITY_REGISTERED_KEYS
+SuspendingPointerInputFilter.kt
+ALIGN_RIGHT
+initialValue
+SubSecTime
+com.google.android.gms.signin.interna...
+group
+androidx.wear.compose.material.SwipeT...
+java.lang.Cloneable
+Power_2_Pro
+getConstructorId
+publicKey.encoded
+BV9500Pro
+GPSLongitudeRef
+androidx.wear.compose.material.Positi...
+format
+com.android.vending
+requestLine
+com.google.android.gms.signin
+groupInfos.values
+water
+peerCertificates
+coil.compose.AsyncImagePainter$update...
+$this$CurvedLayout
+sourceCoordinates
+TLS_1_3
+TLS_1_2
+android.support.action.showsUserInter...
+androidx.compose.foundation.gestures....
+internalPath
+awaitDownAndSlop
+V0310WW
+getUri
+request
+LocalImageVectorCache
+CLOSED
+TLS_1_1
+values
+TLS_1_0
+collect$suspendImpl
+LocalFocusManager
+consumerIndex
+findViewByAccessibilityIdTraversal
+_removedRef
+Idle
+HardLight
+CANCELED
+psychic
+common_google_play_services_resolutio...
+$this$setFontSize
+kotlin.String.Companion
+androidx.compose.runtime.SnapshotStat...
+SSL_NULL_WITH_NULL_NULL
+LocalDensity
+ISOSpeedLatitudezzz
+ActiveParent
+valueProducer
+ACTION_SHOW_TOOLTIP
+okhttp.MockWebServer
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA256
+jClass
+$this$setFrom
+Date
+DstOver
+interaction
+mAttachInfo
+classes.dex
+TLS_FALLBACK_SCSV
+androidx.compose.foundation.gestures....
+androidx.compose.foundation.gestures....
+TLS_DH_anon_WITH_AES_256_CBC_SHA
+Left
+java.specification.version
+insertInorderBarrier
+common_google_play_services_sign_in_f...
+kotlin.Cloneable
+TLS_RSA_WITH_AES_256_CBC_SHA
+rootNode
+GPSDestBearing
+path
+primaries
+Decimal
+ReceiveQueued
+ExposureMode
+Button
+Recomposer.kt
+record
+androidx.compose.foundation.gestures....
+kotlin.reflect.jvm.internal.Reflectio...
+com.android.org.conscrypt.SSLParamete...
+$this$readMedium
+CutText
+tlsVersionsIntersection
+cleanedAndPointers
+android:target_req_state
+addObserver
+autofillTree
+modelClass
+ID1ID2
+PixelXDimension
+profile
+ON_ANY
+GMT
+ON_PAUSE
+route
+MeteringMode
+domain
+StripByteCounts
+:path
+allocateInstance
+Canceled
+ahannah
+invokeSuspend
+boundsUpdatesEventLoop
+Recomposer:animation
+albums
+fontMetricsInt
+getResPackage
+outerSemanticsEntity
+DROP_LATEST
+fontList
+A30ATMO
+TLS_DHE_RSA_WITH_CAMELLIA_128_CBC_SHA
+startDestination
+Clickable.kt
+journal
+composition
+:scheme
+REMOVING
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA
+grass
+StripOffsets
+$this$AnimatedVisibility
+override
+onDraw
+common_google_play_services_restricte...
+RESULT_DESIRED_FORMAT_UNSUPPORTED
+androidx.compose.runtime.SnapshotStat...
+ISOSpeedRatings
+parentCoordinates
+java.version
+tail
+outAttrs
+PERMIT
+transition
+TLS_RSA_WITH_SEED_CBC_SHA
+android.os.SystemProperties
+OkHttp
+Recomposer:recompose
+LOCALE
+it.lifecycleOwner.lifecycle
+CANCEL
+LICENSE_CHECK_FAILED
+Dismissed
+onFocusEvent
+rjames_go
+missingDelimiterValue
+PokeRepository.kt
+listener
+dir
+Upgrade
+down
+SubIFDPointer
+AwaitContinuation
+kotlin.Boolean
+androidx.transition.FragmentTransitio...
+_queue
+OECF
+info
+parcel
+itemsProvider
+graph
+Weight
+Role
+month
+LazyListItemsProviderImpl.kt
+value.textValue
+domainName
+java.lang.annotation.Annotation
+$this$setNativeColor
+org.eclipse.jetty.alpn.ALPN$ClientPro...
+sha256/
+AndroidOwner:onMeasure
+AndroidUiDispatcher.android.kt
+TERMINATED
+Timeout.kt
+session
+compositionLocalMap
+ACTION_SET_SELECTION
+coil.decode.BitmapFactoryDecoder
+fontFamilyResolver
+title
+SPDY_3
+kotlin.collections.Map
+load
+SubjectArea
+ProfileInstaller
+LOWER_CASE_WITH_DOTS
+java.lang.Boolean
+TLS
+selector
+FocalPlaneXResolution
+socketAddress
+owner
+classSimpleName
+kotlinx.coroutines.flow.FlowKt__Merge...
+spans
+pathData
+pokemon
+IconCompat
+ExifInterface
+com.google.android.gms.common.telemet...
+Hi9Pro
+TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA
+trimPathStart
+multipart/digest
+nodes
+Expect
+coil.request.ViewTargetRequestManager...
+context.theme
+androidx.compose.material.ripple.Ripp...
+DEFAULT
+strokeMiterLimit
+SensingMethod
+android.support.allowGeneratedReplies
+hitTestSource
+DROP_OLDEST
+$this$background
+SetText
+$this$SwipeDismissableNavHost
+android.net.Uri
+anims
+updateDisplayListIfDirty
+lastScheduledTask
+viewportHeight
+androidx.activity.result.contract.ext...
+navigation
+androidx.compose.foundation.gestures....
+androidx.view.accessibility.Accessibi...
+lazyAnimation
+action
+text
+Captured
+LocalFontFamilyResolver
+cookie
+pointerInputFilter
+primary.prof
+dns
+bits
+arch_disk_io_%d
+TLS_AES_256_GCM_SHA384
+RESOLUTION_REQUIRED
+Contrast
+requestHeaders
+otherNode
+onSizeChanged
+ETag
+getResId
+invalid
+alignmentCallback
+connectionName
+TIMEOUT
+snapshot
+kotlinx.coroutines.flow.SharedFlowImpl
+sun.misc.Unsafe
+server
+LocalClipboardManager
+SamplesPerPixel
+TestTagsAsResourceId
+ACTION_CLEAR_SELECTION
+Right
+record.message
+Off
+InvisibleToUser
+file
+YCbCrSubSampling
+stream
+gestureModifiers
+performFling
+CancellableContinuation
+Final
+map
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA
+hannah
+okhttp.Http2
+HIDE
+SSL_RSA_WITH_NULL_SHA
+DragGestureDetector.kt
+java.nio.file.Files
+COMPRESSED
+max
+ACTION_PAGE_RIGHT
+FlashEnergy
+TLS_DHE_DSS_WITH_CAMELLIA_128_CBC_SHA
+measurables
+floatDecaySpec
+dialogProperties
+onAsyncCompletion
+serviceResponseIntentKey
+SaveableStateHolder_BackStackEntryKey
+url
+Italic
+awaitFirstDownOnPass
+304
+ACTION_HIDE_TOOLTIP
+kotlin.internal.JRE8PlatformImplement...
+CatS41
+ForEachGesture.kt
+RESUMED
+$this$null
+onClick
+instance
+KEY_COMPONENT_ACTIVITY_PENDING_RESULT
+verticalArrangement
+Luminosity
+coil.compose.AsyncImagePainter$onReme...
+com.google.android.gms.availability
+feff
+arrangement
+mVisibleInsets
+element.subjectDN
+$this$closeQuietly
+find
+host
+selected
+HTTP_2
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+androidx.compose.ui.input.nestedscrol...
+defaultParent
+interrupted
+$this$contentColorFor
+separator
+painter
+entries
+task
+null
+kotlinx.coroutines.flow.internal.Chan...
+CRC
+$this$animate
+true
+SSHORT
+TLS_RSA_WITH_NULL_SHA256
+DISK
+org.conscrypt.Conscrypt$Version
+HEAD
+statusLine
+Src
+G3112
+SubjectDistance
+ACTION_SCROLL_RIGHT
+TLS_RSA_WITH_AES_256_GCM_SHA384
+certificate
+G3116
+AndroidComposeViewAccessibilityDelega...
+paragraphInfoList
+Clear
+CustomRendered
+TLS_KRB5_EXPORT_WITH_RC4_40_MD5
+theUnsafe
+android.permission.ACCESS_NETWORK_STATE
+STARTED
+Inactive
+Round
+android:view_registry_state
+NeverEqualPolicy
+timeUnit
+G3121
+G3123
+G3125
+Error
+androidx.compose.runtime.DefaultChore...
+ResourceManagerInternal
+Blackview
+structure
+kotlinx.coroutines.flow.internal.Chan...
+Trace
+bytes
+collectionItemInfo
+U50APLUSTMO
+Completed
+callback
+RESUME_TOKEN
+socket
+ACTION_PASTE
+properties
+LightSource
+method.declaringClass
+Vertical
+00
+common_google_play_services_restricte...
+contentArcPadding
+argumentName
+stateFactory
+$this$toHostHeader
+predicate
+observer
+$this$delimiterOffset
+Unknown
+java.lang.Long
+$this$connect
+fire
+$noName_0
+TRACE_TAG_APP
+$noName_1
+PROTOCOL_ERROR
+released
+$this$Saver
+onDismissed
+TLS_KRB5_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+Armor_3
+Background
+_decision
+Armor_6
+outer
+Butt
+0x%02x
+execute
+kotlinx.coroutines.flow.AbstractFlow
+LOWER_CASE_WITH_DASHES
+IDENTITY
+input_method
+TextBottom
+wss:
+dayOfMonth
+SSL_DH_anon_WITH_RC4_128_MD5
+Expand
+TLS_ECDHE_ECDSA_WITH_NULL_SHA
+setCurrentState
+SSL_DH_anon_WITH_3DES_EDE_CBC_SHA
+TLS_PSK_WITH_RC4_128_SHA
+suspendAndThrow
+TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384
+statusCode
+com.google.android.gms.signin.interna...
+SubjectDistanceRange
+kotlinx.coroutines.InterruptibleKt$ru...
+TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384
+StartIntentSenderForResult
+One
+kotlin.Function
+0x
+androidx.compose.ui.text.font.AsyncFo...
+URATIONAL
+long
+boundaryByteString
+coil.RealImageLoader$execute$2
+outline
+PlanarConfiguration
+min
+TextInputServiceAndroid.android.kt
+MEMORY
+ACTION_PAGE_DOWN
+kotlinx.coroutines.channels.defaultBu...
+classes_to_restore
+tlsVersions
+Exclusion
+supports
+namesAndValues
+getBoolean
+androidx.wear.compose.material.Positi...
+RowsPerStrip
+GooglePlayServicesErrorDialog
+NetworkObserver
+coordinates
+AboveBaseline
+typeConverter
+UPPER_CAMEL_CASE_WITH_SPACES
+:method
+NavDeepLinkRequest
+selectProtocol
+STRING
+textPaint
+GPSDestDistance
+TLS_DH_anon_WITH_AES_128_GCM_SHA256
+autofill
+/proc/self/fd
+operation
+common_google_play_services_invalid_a...
+LocalFontLoader
+open
+android.widget.EditText
+NO_DECISION
+JPEGInterchangeFormat
+OnLongClick
+Ripple.kt
+com.google.android.gms.signin.interna...
+navigator
+ShuttingDown
+ice
+PasteText
+socketAdapterFactory
+Operations:
+HttpUriFetcher.kt
+androidx.compose.foundation.gestures....
+newDestination
+FontFamily.Default
+originalRequest
+TLS_DHE_RSA_WITH_AES_256_GCM_SHA384
+androidx.profileinstaller.action.INST...
+$this$Chip
+ON_START
+KEY_COMPONENT_ACTIVITY_LAUNCHED_KEYS
+getAccessibilityViewId
+kotlinx.coroutines.io.parallelism
+NUMBER
+Scrollable.kt
+TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
+PADDED
+android.resource
+isFocused
+BOOLEAN
+immutable
+saveableStateHolder
+androidx.compose.foundation.gestures....
+flying
+GainControl
+semanticAction
+_next
+view.context
+allow
+TLS_RSA_WITH_AES_128_CBC_SHA256
+expires
+TLS_
+invalidSnapshots
+androidx.compose.foundation.Clickable...
+StartActivityForResult
+ScalingLazyListAnchorType.ItemCenter
+androidx.compose.runtime.snapshots.Sn...
+ColorBurn
+evert
+Empty
+PressInteraction.kt
+INVALID_ACCOUNT
+androidx.wear.compose.material.Scalin...
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA
+SetProgress
+coil.intercept.EngineInterceptor$inte...
+hitSemanticsEntities
+OffsetTimeDigitized
+setCookie
+REPORT
+PUT
+debug.layout
+layout
+trustManager.acceptedIssuers
+path1
+ON_CLOSE_HANDLER_INVOKED
+$this$offset
+headerBlock
+step
+comment
+java.lang.Object
+awaitStarted
+Location
+dexopt/baseline.profm
+mod
+setUseSessionTickets
+prefix
+HTTP_1_1_REQUIRED
+ImageVector
+$this$height
+getMethod
+LiveRegion
+ActualAndroid.android.kt
+kotlinx.coroutines.flow.FlowKt__Share...
+kotlinx.coroutines.flow.FlowKt__Share...
+coil.RealImageLoader
+offsetAnimation
+getViewRootImpl
+delimiter
+$this$toHttpUrl
+NONE
+TLS_DH_anon_WITH_AES_128_CBC_SHA
+address.hostAddress
+BringIntoViewResponder.kt
+kotlinx.coroutines.semaphore.maxSpinC...
+LazyListItemPlacementAnimator.kt
+ShutDown
+hints
+responder
+sslSocketSession
+java.util.Set
+cacheControl
+Out
+kotlinx.coroutines.flow.StartedWhileS...
+TLS_ECDHE_ECDSA_WITH_RC4_128_SHA
+kotlinx.coroutines.flow.StartedWhileS...
+Switch
+SensorRightBorder
+END_OBJECT
+SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA
+NonZero
+androidx.wear.compose.material.Swipea...
+alignmentLine
+paint.fontMetricsInt
+steel
+Heading
+$this$set
+com.iago.pokewatch.screens.home.HomeS...
+SSL_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA
+kotlin.collections.MutableMap
+TLS_ECDH_anon_WITH_RC4_128_SHA
+Swipeable.kt
+market://details
+ActivityResultRegistry
+androidx.compose.foundation.gestures....
+CONNECT
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+androidx.compose.ui.platform.GlobalSn...
+Clip
+NO_THREAD_ELEMENTS
+Visible
+velocityVector
+DOUBLE
+event
+$this$drawBehind
+_availablePermits
+TLS_EMPTY_RENEGOTIATION_INFO_SCSV
+coil.intercept.EngineInterceptor$tran...
+PENDING
+$this$Canvas
+TransferFunction
+Tab
+EnterExitTransition
+SensorTopBorder
+java.lang.Comparable
+ACTION_SET_TEXT
+first
+DstAtop
+caCerts
+span
+Done
+android.widget.Switch
+tryAwaitRelease
+hostLifecycleState
+Characters
+float
+OP_SET_MAX_LIFECYCLE
+BitsPerSample
+reference
+Gamma
+java.lang.Enum
+GPSVersionID
+familyName
+progressBarRangeInfo
+from
+Client
+caCert.subjectX500Principal
+fontWeight
+android.hardware.type.embedded
+localCertificates
+indicationInstance
+connectionPool
+$this$layout
+0123456789abcdef
+StopInput
+kotlin.collections.MutableList
+invoke$emitEnter
+Softlight
+SERVICE_INVALID
+sequence
+DATA
+Content
+ThumbnailImage
+Dimension.Original
+Software
+OFFLINE
+AndroidOwner:measureAndLayout
+configuration
+localRect
+ACTION_CUT
+LTR
+HomeScreen.kt
+error
+org.eclipse.jetty.alpn.ALPN$Provider
+kotlin.Byte
+innerContext.baseContext
+parentIterator
+public
+RequestPermissions
+array
+SelectableGroup
+postfix
+value
+REUSABLE_CLAIMED
+contentForeground
+androidx.compose.runtime.Recomposer$j...
+0x%08x
+GmsClient
+TestTag
+fontMetrics
+int
+command
+GPSDestLongitudeRef
+observeForever
+REMOTE_EXCEPTION
+processNewAnchors$compose_material_re...
+LensMake
+kotlinx.coroutines.flow.StartedLazily...
+Xmp
+TLS_DHE_RSA_WITH_CAMELLIA_256_CBC_SHA
+providers
+exception
+$this$fakeSemanticsNode
+StandardOutputSensitivity
+charSequence
+year
+placeholders
+String
+SETTINGS
+actionIntent
+resolution
+scrollToItem
+via
+defaultFontFamily
+A3
+$this$LazyColumn
+com.google.app.id
+GPSSpeed
+display_photo
+saver
+androidx.view.accessibility.Accessibi...
+getUncaughtExceptionPreHandler
+SERVICE_DISABLED
+resolveResult
+fairy
+VerbatimTts
+AndroidOwner:onTouch
+upgrade
+$this$customAnimateValueAsState
+providerValues
+givenName
+_handled
+slotReusePolicy
+google
+version
+SetSelection
+RCT6873W42BMF9A
+kotlin.jvm.functions.
+onMenuKeyEvent
+failedRoute
+androidx.compose.ui.text.font.AsyncTy...
+Xor
+clientProviderClass
+$this$setColor
+emitAllImpl$FlowKt__ChannelsKt
+slotTable
+lastProvider
+BC
+VerticalScrollAxisRange
+layout.text
+androidx.compose.foundation.gestures....
+publicsuffixes.gz
+kotlin.internal.JRE7PlatformImplement...
+headerIndexes
+matrix
+TapGestureDetector.kt
+LayingOut
+fillColor
+http/1.1
+DIRTY
+http/1.0
+ContentOrLtr
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+androidx.compose.runtime.Recomposer$r...
+LocalInputManager
+close
+TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA
+LazyListState.kt
+androidx.compose.foundation.gestures....
+density
+onChanged
+RESULT_PARSE_EXCEPTION
+ColorDodge
+Z2_PRO
+CameraOwnerName
+Compose:recompose
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA256
+V0330WW
+coil.request.GlobalLifecycle
+indices
+androidx.lifecycle.BundlableSavedStat...
+DEVELOPER_ERROR
+androidx.compose.runtime.SnapshotStat...
+this$0
+hourOfDay
+Loaders:
+android:theme
+Initial
+RST_STREAM
+Startup
+acc
+ULONG
+GPSAltitude
+Email
+HoverInteraction.kt
+ImageUniqueID
+inputs
+kotlin.collections.convert_arg_to_set...
+actualStyle
+Miter
+startColor
+TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY130...
+addSuppressed
+okhttp.TaskRunner
+CSLCompat
+ACTION_SET_PROGRESS
+ThumbnailImageWidth
+RESULT_OK
+kotlinx.coroutines.TimeoutKt
+androidx.compose.ui.text.font.AsyncFo...
+protocols
+com.google.android.gms.org.conscrypt
+rippleAlpha
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+$this$ScalingLazyColumn
+cert.subjectDN
+trimPathEnd
+$this$startOffset
+processDragCancel
+RadioButton
+encoding
+itemScope
+contentScale
+GoogleApiActivity
+eotf
+RECONNECTION_TIMED_OUT_DURING_UPDATE
+warnIfOpen
+focusRequester
+http
+error_code
+pendingIntent
+androidx.compose.foundation.gestures....
+stateDescription
+alignment
+hitTestResult
+GONE
+com.google.android.gms.dynamic.IObjec...
+strokeWidth
+private
+kotlin.collections.MutableCollection
+drawEntity
+ACTION_CLEAR_FOCUS
+$this$toHttpDateOrNull
+Em
+PixelYDimension
+ACTION_SCROLL_BACKWARD
+anchors
+FlashpixVersion
+WhiteBalance
+com.google.android.gms.common.interna...
+androidx.compose.foundation.text.inli...
+android.graphics.drawable.VectorDrawable
+scope
+strokeLineCap
+textInputCommandEventLoop
+StandardCharsets.UTF_8
+:authority
+ACTION_SCROLL_UP
+BITMAP_MASKABLE
+Down
+Animatable.kt
+http://ns.adobe.com/xap/1.0/
+UserInput
+parentCoroutineContext
+label
+message
+$this$canReuseConnectionFor
+android:support:fragments
+UNLOCKED
+androidx.compose.foundation.gestures....
+androidx.compose.runtime.SdkStubsFall...
+Mouse
+Offset.Unspecified
+Measuring
+Previous
+ImeAction
+START
+rhs
+age
+subcomposeLayoutState
+SnapshotFlow.kt
+centerY
+centerX
+RESTRICTED_PROFILE
+A3_Pro
+UNDEFINED
+GPSTimeStamp
+Go
+G3412
+nearestItemsRange
+publicKey
+PostExit
+G3416
+ACTION_CONTEXT_CLICK
+parentList
+TLS_ECDH_RSA_WITH_NULL_SHA
+dexopt/baseline.prof
+androidx.compose.foundation.MutatorMu...
+BYTE
+kotlinx.coroutines.internal.StackTrac...
+property
+placementBlock
+grantedScopes
+mapping
+androidx.compose.foundation.gestures....
+RealInterceptorChain.kt
+shape
+GoogleSignatureVerifier
+G3421
+FileSource
+REFUSED_STREAM
+FocalLengthIn35mmFilm
+convertToVector
+G3423
+handle
+securePolicy
+$this$graphicsLayer
+G3426
+animation
+androidx.compose.foundation.gestures....
+exit
+Top
+400
+awaitLongPressOrCancellation
+404
+RESULT_NOT_WRITABLE
+.dp
+etag
+%02d:%02d:%02d
+PROPPATCH
+ImageBitmap
+navigatorProvider
+androidx.compose.runtime.Recomposer$r...
+.xml
+other
+In
+coil.intercept.EngineInterceptor
+libcore.io.DiskLruCache
+longPressDragObserver
+routeDatabase
+protocolSelected
+URI
+valueVector
+local
+fffe
+LocalViewConfiguration
+androidx.view.accessibility.Accessibi...
+kotlin.Long
+.em
+PING
+androidx.view.accessibility.Accessibi...
+Completing
+Style
+ALIGN_LEFT
+Focused
+TLS_AES_128_CCM_8_SHA256
+android.settings.APPLICATION_DETAILS_...
+_resumed
+androidx.compose.foundation.gestures....
+GPSHPositioningError
+One_Pro
+androidx.compose.foundation.gestures....
+m5.a
+Text
+gzip
+sslSocket
+Lab
+nativeColorFilter
+com.iago.pokewatch.screens.home.HomeV...
+anchor
+Xyz
+canvasHolder
+DESTROYED
+androidx.core.app.extra.COMPAT_TEMPLATE
+invalidationsRequested
+SharingStarted.kt
+GPSLatitude
+referer
+Compression
+SINGLE
+UTC
+choreographer
+kotlin.collections.Collection
+ExposureProgram
+modifier
+getAlpnSelectedProtocol
+measurePolicy
+paneTitle
+placeables
+body
+FERMI_TF
+mode
+scaleX
+scaleY
+onDragStopped
+EngineInterceptor
+coroutineScope
+ResourceFileSystem::class.java.classL...
+TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA
+canDrag
+buffer
+FNumber
+ali
+settings
+HTTP_1_0
+read
+HTTP_1_1
+OpenSSLSocketImpl
+newInstance
+scrimForeground
+MetadataValueReader
+LocalAutofillTree
+$this$MeasurePolicy
+com.google.android.gms.chimera
+java.util.List
+unit
+platformFontLoader
+kotlinx.coroutines.flow.FlowKt__ReduceKt
+Interruptible.kt
+cn.google
+UNEXPECTED:
+processDragStart
+kotlin.Int
+ImageDescription
+collect
+okio.Okio
+ctx.baseContext
+handleLifecycleEvent
+%2e.
+Indeterminate
+COMPLETING_ALREADY
+androidx.wear.compose.material.Positi...
+TLS_KRB5_WITH_RC4_128_SHA
+media
+viewConfiguration
+java.lang.Iterable
+crossAxisSize
+slotIds
+rect
+MakerNote
+kotlinx.coroutines.DefaultExecutor.ke...
+OffsetTime
+Phone
+multipart/parallel
+YCbCrPositioning
+Modifier
+isPressed
+Collapse
+Conscrypt
+savedStateRegistryController.savedSta...
+Keyboard
+Host
+user_rotation
+minute
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+gcore_
+MutatorMutex.kt
+android:user_visible_hint
+paddingValues
+$this$setNativeBlendMode
+SLONG
+needle
+strategy
+Main
+On
+androidx.compose.material.ripple.Ripp...
+dragStartInteraction
+layoutResult
+AccessibilityNodeInfo.roleDescription
+ANIM
+SSL_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA
+TLS_KRB5_WITH_DES_CBC_MD5
+android.widget.HorizontalScrollView
+GoogleApiHandler
+contentBuilder
+InfiniteTransition.kt
+QUIC
+ERROR
+api
+SERVICE_UPDATING
+ScrollExtensions.kt
+androidx.wear.compose.material.SwipeT...
+maxState
+rjames_f
+Trailers
+AndroidFontLoader.android.kt
+Make
+owner.viewModelStore
+invalidateParentLayer
+pressedInteraction
+$this$pointerSlop
+expirationTime
+verticalScrollAxisRange
+targetVector
+A3A_8_4G_TMO
+androidx.compose.foundation.gestures....
+Expires
+REMOVE_FROZEN
+ChannelFlow.kt
+TaskStackBuilder
+.tmp
+HH:mm
+SSL_RSA_WITH_3DES_EDE_CBC_SHA
+endState
+ScalingLazyListState.kt
+invoke$emitExit
+androidx.savedstate.Restarter
+kotlinx.coroutines.semaphore.segmentSize
+SSL_RSA_EXPORT_WITH_DES40_CBC_SHA
+android.view.accessibility.extra.DATA...
+context.applicationContext
+androidx.compose.foundation.gestures....
+kotlin.collections.ListIterator
+default
+GPSLatitudeRef
+executeMain
+TLS_ECDH_RSA_WITH_AES_256_CBC_SHA
+lifecycleOwner
+ClientTelemetry.API
+objectFieldOffset
+:status
+SSL_RSA_WITH_RC4_128_SHA
+outBundle
+TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDH_RSA_WITH_RC4_128_SHA
+LocalSavedStateRegistryOwner
+ViewTargetRequestManager.kt
+ACTION_SELECT
+EDISON_TF
+https://plus.google.com/
+$this$padding
+poison
+viewportWidth
+ComponentsConfiguration
+blockingTasksInBuffer
+call
+TE
+kotlin.Char
+android:backStackId
+LOWER_CASE_WITH_UNDERSCORES
+inlineContent
+ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+Share.kt
+intersectionCounter
+Sp
+SrcOver
+.%2e
+view.context.resources.configuration....
+TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA
+java.util.ListIterator
+GPSAltitudeRef
+SUCCESS_CACHE
+DefaultDispatcher
+coil.intercept.EngineInterceptor$exec...
+kotlin.Double
+GoogleCertificates
+GPSMapDatum
+view
+pokemon.json
+segment
+ANMF
+com.google.android.gms.version
+Disabled
+javaName
+testTag
+androidx.lifecycle.ViewModelCoroutine...
+getKey
+org.eclipse.jetty.alpn.ALPN
+spanStyles
+androidx.compose.foundation.relocatio...
+PreviewImageStart
+responseHeaders
+byteString
+GPSDestLongitude
+AccessibilityDelegate
+name
+Transition.kt
+TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256
+Up
+SceneCaptureType
+SERVICE_VERSION_UPDATE_REQUIRED
+TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA
+outPosition
+previousGlobalSnapshot
+getDescriptor
+string
+U50A_ATT
+kotlin.coroutines.jvm.internal.BaseCo...
+IFD
+TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256
+java.lang.module.ModuleDescriptor
+loadWithTimeoutOrNull$ui_text_release
+encodedValues
+Justify
+VISIBLE
+SrcIn
+LineThrough
+button
+ScalingLazyColumn.kt
+androidx.compose.animation.core.Anima...
+android:view_state
+Dispatchers.Main
+collectionInfo
+chunked
+Cancelled
+notify_manager
+target
+interactionSource
+PrimaryChromaticities
+what
+primitiveFqNames.values
+GoogleApiManager
+android.intent.action.VIEW
+U50A_PLUS_ATT
+subtreeRoot
+Cancelling
+TLS_DH_anon_WITH_AES_256_GCM_SHA384
+com.google.android.gms.common.interna...
+tileMode
+logger
+.sp
+onDragStarted
+Merge.kt
+DialogRedirect
+EmptyCoroutineContext
+peerName
+FocusInteraction.kt
+ACTION_ARGUMENT_SELECTION_END_INT
+END_HEADERS
+ExposureTime
+$this$toImmutableList
+Z2
+ConnectionStatusConfig
+parentLayoutNode
+Z9
+android:showsDialog
+item
+canvas
+com.google
+kotlinx.coroutines.scheduler.core.poo...
+kotlinx.coroutines.scheduler.max.pool...
+double
+TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5
+KEY_COMPONENT_ACTIVITY_RANDOM_OBJECT
+Darken
+androidx.wear.compose.material.Scalin...
+contextTextStyle
+RelatedSoundFile
+ConnectionTracker
+INVISIBLE
+kotlinx.coroutines.flow.FlowKt__Share...
+$this$measure
+Low
+kotlin.Short
+showsUserInterface
+mRecreateDisplayList
+bounds
+style
+org.openjsse.net.ssl.OpenJSSE
+GPSTrack
+SceneType
+Dispatchers.Unconfined
+networkResponse
+$this$setNativeStrokeCap
+Absolute
+Span
+TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256
+paragraphStyles
+colorSpace
+okhttp3.
+confirmStateChange
+UTF_8
+android.hardware.type.watch
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_...
+mContentInsets
+defaultDns
+InfiniteAnimationPolicy.kt
+SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA
+FRAME_SIZE_ERROR
+java.util.Map$Entry
+SendQueued
+VP8L
+LensModel
+VP8X
+journal.tmp
+holderToLayoutNode.keys
+StartInput
+coil.fetch.HttpUriFetcher
+SnapshotIdSet.kt
+com.google.android.gms.signin.interna...
+kotlinx.coroutines.fast.service.loader
+ScrollToIndex
+kotlin.Any
+KEY_COMPONENT_ACTIVITY_REGISTERED_RCS
+coroutineContext
+wrapper
+platformFamilyTypefaceAdapter
+backStackEntryId
+ISOSpeed
+notification
+AnimatedVisibility
+protocol
+LocalLayoutDirection
+SSL_DH_anon_EXPORT_WITH_RC4_40_MD5
+com.google.android.gms.signin.interna...
+proxyAuthenticator
+_reusableCancellableContinuation
+android.view.View
+wrapped
+java.lang.Byte
+contentType
+android.view.accessibility.action.ARG...
+package
+endReason
+nora_8917_n
+androidx.compose.foundation.gestures....
+_consensus
+CANCELLED
+editableText
+effect
+One_Max
+PUSH_PROMISE
+kotlin.collections.Iterator
+CLOSED_EMPTY
+job
+who
+scrimBackground
+RCT6A03W13
+END_STREAM
+Ltr
+Touch
+onCloseHandler
+com.google.android.gms.signin.interna...
+kotlin.Enum
+SSL_
+fillType
+com.google.android.gms.signin.service...
+uriHandler
+Dalvik
+TLS_DHE_DSS_WITH_CAMELLIA_256_CBC_SHA
+unbounded
+SensorBottomBorder
+Flash
+$this$navOptions
+Size.Unspecified
+pcampaignid
+compose:lazylist:prefetch:compose
+getDeclaredField
+defaultParagraphStyle
+ACTION_PREVIOUS_HTML_ELEMENT
+$this$semantics
+http://schemas.android.com/apk/res/an...
+ILA_X1
+electric
+Ellipsis
+androidx.lifecycle.savedstate.vm.tag
+localeList
+WindowInsetsCompat
+$this$animateTo
+slideOut
+NETWORK_ERROR
+MEMORY_CACHE
+DeviceSettingDescription
+getModule
+parent
+withTimeoutOrNull
+TLS_DHE_DSS_WITH_AES_256_GCM_SHA384
+gradientRadius
+android.widget.ProgressBar
+SETTINGS_TIMEOUT
+androidx.compose.foundation.gestures....
+popUpTo
+setAlpnProtocols
+RecommendedExposureIndex
+GPSSpeedRef
+layoutNode
+bitmap
+androidx.lifecycle.LifecycleDispatche...
+getSuppressed
+ACTION_UNKNOWN
+androidx.compose.runtime.Recomposer$r...
+shrink
+httponly
+publicSuffixListBytes
+proxy
+canceled
+kotlin.Unit
+kotlinx.coroutines.scheduler.resoluti...
+TLS_DHE_RSA_WITH_AES_128_CBC_SHA
+FocalLength
+av
+kotlin.jvm.internal.StringCompanionOb...
+kotlinx.coroutines.flow.StartedLazily...
+ContentDescription
+DpOffset.Unspecified
+ACTION_CLICK
+nestedScrollDispatcher
+OFFER_FAILED
+N5501LA
+LazySemantics.kt
+InternalMutatorMutex.kt
+common_google_play_services_resolutio...
+scheme
+Theme.Dialog.Alert
+icon
+kotlinx.coroutines.flow.internal.Undi...
+$this$socketHost
+BitmapFactoryDecoder.kt
+coil.RealImageLoader$execute$2$job$1
+serviceIntentCall
+animationSpec
+GmsClientSupervisor
+TLSv1
+throwableMethods
+Selected
+updateState
+%02x
+completion
+java.io.tmpdir
+androidx.view.accessibility.Accessibi...
+set
+COMPRESSION_ERROR
+ISO
+ACTION_IME_ENTER
+Blocking
+ACK
+DETACH
+inspectorInfo
+Dp.Unspecified
+evert_n
+$this$animateDecay
+REL
+paragraphIntrinsics
+ACTION_NEXT_AT_MOVEMENT_GRANULARITY
+android.support.PARENT_ACTIVITY
+spanStyle
+font
+ReferentialEqualityPolicy
+ADD
+journal.bkp
+RPP2
+NavController
+typefaceRequest
+Difference
+TLS_DHE_DSS_WITH_AES_128_GCM_SHA256
+ds
+composable
+androidx.view.accessibility.Accessibi...
+Underline
+USHORT
+autoMirrored
+SSL_DH_anon_WITH_DES_CBC_SHA
+uriHost
+image
+BringIntoViewRequester.kt
+layoutIntrinsics
+animateScrollBy
+rootView.handler
+Failed
+Color
+NonDisposableHandle
+PATCH
+$this$focusSearch
+RectangleShape
+Dismiss
+multipart
+EvenOdd
+RPP1
+debugData
+ACTION_ACCESSIBILITY_FOCUS
+https:
+isDirectory
+frame
+canvasDrawScope
+ThumbnailImageLength
+SignInCoordinator
+ACTION_LONG_CLICK
+$this$indexOfFirstNonAsciiWhitespace
+origin
+SRATIONAL
+remeasurement
+h2
+paramName
+easing
+content
+timeout
+withFrameNanos
+ENQUEUE_FAILED
+Number
+TLS_ECDH_ECDSA_WITH_RC4_128_SHA
+client
+java.vm.name
+Hue
+androidx.wear.compose.material.Swipea...
+class
+ws:
+false
+PROPFIND
+getDeclaredMethod
+common_google_play_services_network_e...
+SubSecTimeDigitized
+Sharpness
+PendingWork
+workerCtl
+500
+Ascii
+$this$setNativeFilterQuality
+ACTION_MOVE_WINDOW
+WINDOW_UPDATE
+finalResult
+initialVelocityVector
+itemContent
+select
+onSubscription
+Edison_CKT
+Image
+clipboard
+DateTime
+authorization
+TextCenter
+publicSuffixExceptionListBytes
+java.lang.Character
+context
+com.google.android.gms.signin.interna...
+https
+id
+%07x
+Draggable.kt
+S80Lite
+large
+$this$Layout
+it
+params
+UNDECIDED
+IndexForKey
+SET_PRIMARY_NAV
+Locale.US
+HomeViewModel.kt
+deferredAnimation
+intercept
+NioSystemFileSystem
+obfuscatedIdentifier
+kotlin.jvm.internal.
+Cmyk
+charset
+http:
+SSL_DHE_DSS_WITH_DES_CBC_SHA
+l1
+l2
+extras
+FIRSTSTRONG_RTL
+Uri
+delegate
+androidx.compose.foundation.Hoverable...
+Authorization
+$this$writeMedium
+androidx.compose.foundation.gestures....
+paragraphIntrinsics.textPaint.textLocale
+androidx.compose.ui.text.input.TextIn...
+startDragImmediately
+table
+mServedView
+fileSystem
+TLS_ECDHE_RSA_WITH_RC4_128_SHA
+composer
+kotlin.jvm.functions.Function
+GPSLongitude
+snapshots
+androidx.compose.foundation.gestures....
+ReferenceBlackWhite
+$this$place
+android.widget.ScrollView
+currentTimeMillis
+mH
+ResolutionUnit
+androidx.compose.foundation.Hoverable...
+backStackEntry
+$this$receiveHeaders
+childValue
+suffix
+encodedNames
+second
+that
+coil.compose.AsyncImagePainter$onReme...
+TLS_NULL_WITH_NULL_NULL
+android.resource://
+strokeColor
+TLS_ECDHE_PSK_WITH_AES_128_CBC_SHA
+API_UNAVAILABLE
+coil.request.NullRequestData
+mergePolicy
+Polite
+com.google.android.gms.signin.interna...
+kotlin.Number
+ThumbnailOrientation
+$this$drawWithContent
+NULL
+TOO_LATE_TO_CANCEL
+FILL
+Dst
+ms
+PhotographicSensitivity
+TLS_DHE_DSS_WITH_AES_256_CBC_SHA
+TRUE
+CompressedBitsPerPixel
+Range
+trailers
+UNFINISHED
+entry
+expand
+multipart/mixed
+CoreText.kt
+TLS_ECDH_RSA_WITH_AES_128_CBC_SHA
+nc
+fillInPattern
+canonicalPath
+focused
+Exif
+p0
+NestedScrollModifierLocal.kt
+TLS_ECDH_anon_WITH_NULL_SHA
+ComplexColorCompat
+keys
+$this$hasIntersection
+navController
+androidx.compose.ui.semantics.testTag
+androidx.compose.foundation.gestures....
+head
+photoUrl
+dialog
+inParcel
+ACTION_SCROLL_LEFT
+Limit.kt
+kotlin.Comparable
+HTTP/1.
+CommonRipple.kt
+baseKey
+UserComment
+androidx.compose.material.ripple.Ripp...
+LensSpecification
+pettyl
+COROUTINE_SUSPENDED
+GPSDOP
+TLS_DH_anon_WITH_AES_128_CBC_SHA256
+GPSInfoIFDPointer
+TLS_DHE_RSA_WITH_AES_256_CBC_SHA
+DefaultCropSize
+requestedWeight
+_LifecycleAdapter
+AnimatedVisibility.kt
+CLEAN
+handles
+Artist
+PlatformVersion
+handler
+EditableText
+region.bounds
+vary
+TLS_DH_anon_WITH_AES_256_CBC_SHA256
+setHostname
+U50A_PLUS_TF
+caption1
+paint
+WindowRecomposer.android.kt
+adaptation
+Distinct.kt
+fighting
+animate
+createAsync
+caption3
+caption2
+.Companion
+$this$placeWithLayer
+KING_KONG_3
+SubSecTimeOriginal
+iterator
+java.util.Map
+Painter
+/data/misc/profiles/cur/0
+Overlay
+$this$SubcomposeLayout
+INTERRUPTED
+TextDecoration.None
+Cookie
+Wrapper
+RSA
+transitionSpec
+drawable
+currentThread
+ACTION_NEXT_HTML_ELEMENT
+androidx.compose.foundation.gestures....
+BodySerialNumber
+insertReorderBarrier
+enqIdx
+SpectralSensitivity
+androidx.compose.foundation.gestures....
+androidx.compose.foundation.gestures....
+$this$items
+accept
+ACTION_COLLAPSE
+node
+CONDITION_FALSE
+RESOLUTION_ACTIVITY_NOT_FOUND
+com.android.org.conscrypt.OpenSSLSock...
+rn
+starting
+HideKeyboard
+hostName
+ExposureBiasValue
+RESULT_CANCELED
+TLS_RSA_WITH_AES_128_GCM_SHA256
+activity
+h2_prior_knowledge
+LocalLifecycleOwner
+fillAlpha
+android:dialogShowing
+RTL
+FHCRC
+DELETE
+current
+RCT6T06E13
+initialVelocity
+vector
+ACTION_SCROLL_TO_POSITION
+audio
+$this$$receiver
+NO_ERROR
+key
+email
+animator_duration_scale
+kotlin.Enum.Companion
+RESOURCE
+kotlinx.coroutines.flow.StateFlowImpl
+calendar
+profileinstaller_profileWrittenFor_la...
+android:target_state
+GPSAreaInformation
+ACTION_EXPAND
+asyncTypefaceCache
+window.decorView
+encodedName
+kotlin.Float
+store
+GPSMeasureMode
+S70
+TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256
+te
+SSL_RSA_WITH_NULL_MD5
+bug
+Words
+closed
+tp
+_prev
+TextTop
+C210AE
+efbbbf
+horizontalScrollAxisRange
+awaitAllPointersUp
+androidx.compose.animation.core.Suspe...
+SuspendAnimation.kt
+newAnchors
+SERVICE_MISSING_PERMISSION
+BROKEN
+putBoolean
+Dispatchers.Default
+mcv3
+kotlinx.coroutines.flow.defaultConcur...
+NETWORK
+TLS_AES_128_GCM_SHA256
+sink
+java.util.Collection
+$this$trimSubstring
+onPinnableParentAvailable
+PreventUserInput
+N5002LA
+image_cache
+ripple
+ffff0000
+failure
+NOT_IN_STACK
+viewModel
+rememberManager
+OffsetTimeOriginal
+placementAnimator
+serviceActionBundleKey
+changed
+removeObserver
+ON_DESTROY
+destination
+changes
+TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384
+com.google.android.gms
+androidx.compose.foundation.gestures....
+LocalContext
+ImageProcessingIFDPointer
+RESULT_ALREADY_INSTALLED
+SSL_RSA_EXPORT_WITH_RC4_40_MD5
+$this$DisposableEffect
+Lifecycles.kt
+socketEnabledCipherSuites
+TLS_ECDH_anon_WITH_AES_128_CBC_SHA
+TLS_ECDH_ECDSA_WITH_NULL_SHA
+EMPTY
+text/plain
+android.intent.action.TIMEZONE_CHANGED
+androidx.compose.runtime.PausableMono...
+normal
+previous
+Saturation
+isRegularFile
+androidx.core.app.NotificationCompat$...
+Dispatchers.Main.immediate
+getAttributionTag
+annotatedString
+SSL_3_0
+ownerView
+androidx.compose.ui.platform.AndroidU...
+location
+REMOVED_TASK
+oetf
+com.iago.pokewatch.repository.PokeRep...
+FLOW_CONTROL_ERROR
+SrcOut
+$this$indexOfLastNonAsciiWhitespace
+ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY
+androidx.compose.material.ripple.Comm...
+OpenJSSE
+GPSProcessingMethod
+androidx.wear.compose.material.Scalin...
+dragon
+none
+type
+repository
+LocalView
+$this$size
+STREAM_CLOSED
+android.hardware.type.iot
+fontListFontFamilyTypefaceAdapter
+children
+FocalPlaneResolutionUnit
+eventListener
+slideIn
+connection
+mutator
+cbuf
+android:savedDialogState
+Finished
+ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+method
+partialLayoutInfo
+alignmentLines
+socketFactory
+CONSUMED
+marginPrefix
+inetSocketAddress
+PreviewImageLength
+ShowKeyboard
+ACTION_ARGUMENT_SELECTION_START_INT
+typeface
+SpatialFrequencyResponse
+TLS_KRB5_WITH_3DES_EDE_CBC_MD5
+_state
+awaitScrollEvent
+Next
+ImageRequest.Builder
+ACTION_FOCUS
+evert_nt
+android.support.action.semanticAction
+androidx.compose.animation.core.Infin...
+java.lang.Double
+james
+body2
+range
+display3
+$this$toMediaType
+display2
+out
+rock
+GooglePlayServicesUtil
+androidx.compose.foundation.Clickable...
+display1
+ghost
+feature
+body1
+get
+dark
+java.lang.Number
+fireball
+AsyncImagePainter.kt
+kotlinx.coroutines.flow.internal.Chan...
+AbstractChannel.kt
+onGloballyPositioned
+TLS_PSK_WITH_3DES_EDE_CBC_SHA
+fraction
+initializer
+android.view.accessibility.extra.DATA...
+expect
+LocalTextToolbar
+A11yActionCompat
+ShutterSpeedValue
+elements
+executeNetworkRequest
+Model
+strokeAlpha
+URI_MASKABLE
+ON_CREATE
+date
+measureResult
+argument
+nora
+data
+ON_RESUME
+TLS_ECDHE_RSA_WITH_NULL_SHA
+org.eclipse.jetty.alpn.ALPN$ServerPro...
+androidx.compose.ui.platform.AndroidC...
+$lifecycleState$delegate
+LocalConfiguration
+API_VERSION_UPDATE_REQUIRED
+renderNode
+JpgFromRaw
+InteroperabilityIFDPointer
+API_DISABLED
+PausableMonotonicFrameClock.kt
+LocalUriHandler
+tag
+Flow.kt
+InLayoutBlock
+NewSubfileType
+REMOVED
+0000ffff
+retrofit2.KotlinExtensions
+flingDecay
+LocalHapticFeedback
+motionEvent
+kotlin.jvm.internal.EnumCompanionObject
+androidx.compose.material.ripple.Stat...
+RESULT_UNSUPPORTED_ART_VERSION
+ACTION_COPY
+Pragma
+SGINO6
+controlState
+androidx.compose.material.ripple.Stat...
+TLS_ECDHE_PSK_WITH_AES_256_CBC_SHA
+Active
+android.widget.TextView
+kotlin.collections.Iterable
+Deactivated
+navDeepLink
+ground
+endVelocityVector
+pointerInputFilters
+androidx.wear.compose.material.Swipea...
+CameraSettingsIFDPointer
+kotlin.collections.Map.Entry
+image/jpeg
+ISOSpeedLatitudeyyy
+ScrollBy
+line
+Screen
+aljeter_n
+link
+failing_client_id
+GPSSatellites
+kotlinName
+GPSDestLatitude
+CopyText
+DateTimeOriginal
+ExposureIndex
+PhotometricInterpretation
+androidx.wear.compose.material.Swipea...
+kotlin.collections.Set
+TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384
+kotlinx.coroutines.flow.internal.Chan...
+horizontalArrangement
+androidx.activity.result.contract.ext...
+factory
+ISIZE
+orientation
+JPEGInterchangeFormatLength
+java.util.Iterator
+focusProperties
+appcompat_skip_skip
+groups
+jar:file:
+ON_STOP
+Channels.kt
+kotlin.CharSequence
+RESULT_IO_EXCEPTION
+BEGIN_ARRAY
+$this$addIfAbsent
+intent
+FIT
+findTrustAnchorByIssuerAndSignature
+fragment
+boolean
+response
+SrcAtop
+trimPathOffset
+emit
+LocalWindowInfo
+ScrollableState.kt
+Marking attr:mimeType:2130903067 used because it matches string pool constant mimeType
+Marking id:blocking:2131230763 used because it matches string pool constant block
+Marking id:accessibility_action_clickable_span:2131230720 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_0:2131230721 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_1:2131230722 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_10:2131230723 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_11:2131230724 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_12:2131230725 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_13:2131230726 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_14:2131230727 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_15:2131230728 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_16:2131230729 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_17:2131230730 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_18:2131230731 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_19:2131230732 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_2:2131230733 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_20:2131230734 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_21:2131230735 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_22:2131230736 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_23:2131230737 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_24:2131230738 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_25:2131230739 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_26:2131230740 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_27:2131230741 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_28:2131230742 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_29:2131230743 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_3:2131230744 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_30:2131230745 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_31:2131230746 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_4:2131230747 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_5:2131230748 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_6:2131230749 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_7:2131230750 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_8:2131230751 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_9:2131230752 used because it matches string pool constant accessibility
+Marking attr:shortcutMatchRequired:2130903080 used because it matches string pool constant short
+Marking attr:enterAnim:2130903049 used because it matches string pool constant enter
+Marking drawable:water:2131099704 used because it matches string pool constant water
+Marking drawable:psychic:2131099699 used because it matches string pool constant psychic
+Marking attr:route:2130903078 used because it matches string pool constant route
+Marking attr:startDestination:2130903081 used because it matches string pool constant startDestination
+Marking drawable:grass:2131099681 used because it matches string pool constant grass
+Marking id:info:2131230776 used because it matches string pool constant info
+Marking attr:graph:2130903062 used because it matches string pool constant graph
+Marking id:title:2131230814 used because it matches string pool constant title
+Marking string:navigation_menu:2131558430 used because it matches string pool constant navigation
+Marking attr:action:2130903040 used because it matches string pool constant action
+Marking id:action_container:2131230753 used because it matches string pool constant action
+Marking id:action_divider:2131230754 used because it matches string pool constant action
+Marking id:action_image:2131230755 used because it matches string pool constant action
+Marking id:action_text:2131230756 used because it matches string pool constant action
+Marking id:actions:2131230757 used because it matches string pool constant action
+Marking id:text:2131230811 used because it matches string pool constant text
+Marking id:text2:2131230812 used because it matches string pool constant text
+Marking string:selected:2131558436 used because it matches string pool constant selected
+Marking attr:nullable:2130903070 used because it matches string pool constant null
+Marking drawable:fire:2131099676 used because it matches string pool constant fire
+Marking drawable:ice:2131099684 used because it matches string pool constant ice
+Marking drawable:flying:2131099677 used because it matches string pool constant flying
+Marking drawable:steel:2131099703 used because it matches string pool constant steel
+Marking attr:fontWeight:2130903061 used because it matches string pool constant fontWeight
+Marking string:error_default:2131558425 used because it matches string pool constant error
+Marking drawable:fairy:2131099674 used because it matches string pool constant fairy
+Marking drawable:googleg_disabled_color_18:2131099679 used because it matches string pool constant google
+Marking drawable:googleg_standard_color_18:2131099680 used because it matches string pool constant google
+Marking integer:google_play_services_version:2131296256 used because it matches string pool constant google
+Marking string:close_drawer:2131558402 used because it matches string pool constant close
+Marking string:close_sheet:2131558403 used because it matches string pool constant close
+Marking id:accessibility_action_clickable_span:2131230720 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_0:2131230721 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_1:2131230722 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_10:2131230723 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_11:2131230724 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_12:2131230725 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_13:2131230726 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_14:2131230727 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_15:2131230728 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_16:2131230729 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_17:2131230730 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_18:2131230731 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_19:2131230732 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_2:2131230733 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_20:2131230734 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_21:2131230735 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_22:2131230736 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_23:2131230737 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_24:2131230738 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_25:2131230739 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_26:2131230740 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_27:2131230741 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_28:2131230742 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_29:2131230743 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_3:2131230744 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_30:2131230745 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_31:2131230746 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_4:2131230747 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_5:2131230748 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_6:2131230749 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_7:2131230750 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_8:2131230751 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_9:2131230752 used because it matches string pool constant acc
+Marking attr:scopeUris:2130903079 used because it matches string pool constant scope
+Marking attr:exitAnim:2130903050 used because it matches string pool constant exit
+Marking style:TextAppearance_Compat_Notification:2131623937 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Info:2131623938 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Line2:2131623939 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Time:2131623940 used because it matches string pool constant Text
+Marking style:TextAppearance_Compat_Notification_Title:2131623941 used because it matches string pool constant Text
+Marking drawable:rectangular_vignette_bottom:2131099700 used because it matches string pool constant rect
+Marking drawable:rectangular_vignette_top:2131099701 used because it matches string pool constant rect
+Marking string:default_error_message:2131558422 used because it matches string pool constant default
+Marking string:default_popup_window_title:2131558423 used because it matches string pool constant default
+Marking drawable:poison:2131099698 used because it matches string pool constant poison
+Marking id:view_tree_lifecycle_owner:2131230815 used because it matches string pool constant view
+Marking id:view_tree_saved_state_registry_owner:2131230816 used because it matches string pool constant view
+Marking id:view_tree_view_model_store_owner:2131230817 used because it matches string pool constant view
+Marking attr:buttonSize:2130903043 used because it matches string pool constant button
+Marking attr:targetPackage:2130903082 used because it matches string pool constant target
+Marking id:item1:2131230780 used because it matches string pool constant item
+Marking id:item2:2131230781 used because it matches string pool constant item
+Marking id:item3:2131230782 used because it matches string pool constant item
+Marking id:item4:2131230783 used because it matches string pool constant item
+Marking color:notification_action_color_filter:2130968589 used because it matches string pool constant notification
+Marking color:notification_icon_bg_color:2130968590 used because it matches string pool constant notification
+Marking dimen:notification_action_icon_size:2131034119 used because it matches string pool constant notification
+Marking dimen:notification_action_text_size:2131034120 used because it matches string pool constant notification
+Marking dimen:notification_big_circle_margin:2131034121 used because it matches string pool constant notification
+Marking dimen:notification_content_margin_start:2131034122 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_height:2131034123 used because it matches string pool constant notification
+Marking dimen:notification_large_icon_width:2131034124 used because it matches string pool constant notification
+Marking dimen:notification_main_column_padding_top:2131034125 used because it matches string pool constant notification
+Marking dimen:notification_media_narrow_margin:2131034126 used because it matches string pool constant notification
+Marking dimen:notification_right_icon_size:2131034127 used because it matches string pool constant notification
+Marking dimen:notification_right_side_padding_top:2131034128 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_background_padding:2131034129 used because it matches string pool constant notification
+Marking dimen:notification_small_icon_size_as_large:2131034130 used because it matches string pool constant notification
+Marking dimen:notification_subtext_size:2131034131 used because it matches string pool constant notification
+Marking dimen:notification_top_pad:2131034132 used because it matches string pool constant notification
+Marking dimen:notification_top_pad_large_text:2131034133 used because it matches string pool constant notification
+Marking drawable:notification_action_background:2131099686 used because it matches string pool constant notification
+Marking drawable:notification_bg:2131099687 used because it matches string pool constant notification
+Marking drawable:notification_bg_low:2131099688 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_normal:2131099689 used because it matches string pool constant notification
+Marking drawable:notification_bg_low_pressed:2131099690 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal:2131099691 used because it matches string pool constant notification
+Marking drawable:notification_bg_normal_pressed:2131099692 used because it matches string pool constant notification
+Marking drawable:notification_icon_background:2131099693 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_bg:2131099694 used because it matches string pool constant notification
+Marking drawable:notification_template_icon_low_bg:2131099695 used because it matches string pool constant notification
+Marking drawable:notification_tile_bg:2131099696 used because it matches string pool constant notification
+Marking id:notification_background:2131230790 used because it matches string pool constant notification
+Marking id:notification_main_column:2131230791 used because it matches string pool constant notification
+Marking id:notification_main_column_container:2131230792 used because it matches string pool constant notification
+Marking layout:notification_action:2131361793 used because it matches string pool constant notification
+Marking layout:notification_action_tombstone:2131361794 used because it matches string pool constant notification
+Marking layout:notification_template_custom_big:2131361795 used because it matches string pool constant notification
+Marking layout:notification_template_icon_group:2131361796 used because it matches string pool constant notification
+Marking layout:notification_template_part_chronometer:2131361797 used because it matches string pool constant notification
+Marking layout:notification_template_part_time:2131361798 used because it matches string pool constant notification
+Marking id:wrapped_composition_tag:2131230820 used because it matches string pool constant wrapped
+Marking attr:popUpTo:2130903073 used because it matches string pool constant popUpTo
+Marking attr:popUpToInclusive:2130903074 used because it matches string pool constant popUpTo
+Marking attr:popUpToSaveState:2130903075 used because it matches string pool constant popUpTo
+Marking id:icon:2131230773 used because it matches string pool constant icon
+Marking id:icon_group:2131230774 used because it matches string pool constant icon
+Marking id:icon_only:2131230775 used because it matches string pool constant icon
+Marking string:icon_reload:2131558427 used because it matches string pool constant icon
+Marking attr:font:2130903051 used because it matches string pool constant font
+Marking attr:fontProviderAuthority:2130903052 used because it matches string pool constant font
+Marking attr:fontProviderCerts:2130903053 used because it matches string pool constant font
+Marking attr:fontProviderFetchStrategy:2130903054 used because it matches string pool constant font
+Marking attr:fontProviderFetchTimeout:2130903055 used because it matches string pool constant font
+Marking attr:fontProviderPackage:2130903056 used because it matches string pool constant font
+Marking attr:fontProviderQuery:2130903057 used because it matches string pool constant font
+Marking attr:fontProviderSystemFontFamily:2130903058 used because it matches string pool constant font
+Marking attr:fontStyle:2130903059 used because it matches string pool constant font
+Marking attr:fontVariationSettings:2130903060 used because it matches string pool constant font
+Marking attr:fontWeight:2130903061 used because it matches string pool constant font
+Marking attr:imageAspectRatio:2130903063 used because it matches string pool constant image
+Marking attr:imageAspectRatioAdjust:2130903064 used because it matches string pool constant image
+Marking string:selected:2131558436 used because it matches string pool constant select
+Marking id:italic:2131230779 used because it matches string pool constant it
+Marking id:item1:2131230780 used because it matches string pool constant it
+Marking id:item2:2131230781 used because it matches string pool constant it
+Marking id:item3:2131230782 used because it matches string pool constant it
+Marking id:item4:2131230783 used because it matches string pool constant it
+Marking id:dialog_button:2131230769 used because it matches string pool constant dialog
+Marking drawable:fighting:2131099675 used because it matches string pool constant fighting
+Marking color:vector_tint_color:2130968591 used because it matches string pool constant vector
+Marking color:vector_tint_theme_color:2130968592 used because it matches string pool constant vector
+Marking id:text:2131230811 used because it matches string pool constant te
+Marking id:text2:2131230812 used because it matches string pool constant te
+Marking string:template_percent:2131558439 used because it matches string pool constant te
+Marking drawable:bug:2131099649 used because it matches string pool constant bug
+Marking attr:destination:2130903048 used because it matches string pool constant destination
+Marking drawable:normal:2131099685 used because it matches string pool constant normal
+Marking id:normal:2131230789 used because it matches string pool constant normal
+Marking drawable:dragon:2131099672 used because it matches string pool constant dragon
+Marking id:none:2131230788 used because it matches string pool constant none
+Marking string:range_end:2131558434 used because it matches string pool constant range
+Marking string:range_start:2131558435 used because it matches string pool constant range
+Marking drawable:rock:2131099702 used because it matches string pool constant rock
+Marking drawable:ghost:2131099678 used because it matches string pool constant ghost
+Marking drawable:dark:2131099671 used because it matches string pool constant dark
+Marking id:dark:2131230768 used because it matches string pool constant dark
+Marking attr:data:2130903046 used because it matches string pool constant data
+Marking attr:dataPattern:2130903047 used because it matches string pool constant data
+Marking id:tag_accessibility_actions:2131230798 used because it matches string pool constant tag
+Marking id:tag_accessibility_clickable_spans:2131230799 used because it matches string pool constant tag
+Marking id:tag_accessibility_heading:2131230800 used because it matches string pool constant tag
+Marking id:tag_accessibility_pane_title:2131230801 used because it matches string pool constant tag
+Marking id:tag_on_apply_window_listener:2131230802 used because it matches string pool constant tag
+Marking id:tag_on_receive_content_listener:2131230803 used because it matches string pool constant tag
+Marking id:tag_on_receive_content_mime_types:2131230804 used because it matches string pool constant tag
+Marking id:tag_screen_reader_focusable:2131230805 used because it matches string pool constant tag
+Marking id:tag_state_description:2131230806 used because it matches string pool constant tag
+Marking id:tag_transition_group:2131230807 used because it matches string pool constant tag
+Marking id:tag_unhandled_key_event_manager:2131230808 used because it matches string pool constant tag
+Marking id:tag_unhandled_key_listeners:2131230809 used because it matches string pool constant tag
+Marking id:tag_window_insets_animation_callback:2131230810 used because it matches string pool constant tag
+Marking drawable:ground:2131099682 used because it matches string pool constant ground
+Marking id:line1:2131230785 used because it matches string pool constant line
+Marking id:line3:2131230786 used because it matches string pool constant line
+Marking anim:fragment_fast_out_extra_slow_in:2130771968 used because it matches string pool constant fragment
+Marking animator:fragment_close_enter:2130837504 used because it matches string pool constant fragment
+Marking animator:fragment_close_exit:2130837505 used because it matches string pool constant fragment
+Marking animator:fragment_fade_enter:2130837506 used because it matches string pool constant fragment
+Marking animator:fragment_fade_exit:2130837507 used because it matches string pool constant fragment
+Marking animator:fragment_open_enter:2130837508 used because it matches string pool constant fragment
+Marking animator:fragment_open_exit:2130837509 used because it matches string pool constant fragment
+Marking id:fragment_container_view_tag:2131230771 used because it matches string pool constant fragment
+@com.iago.pokewatch:anim/fragment_fast_out_extra_slow_in : reachable=true
+@com.iago.pokewatch:animator/fragment_close_enter : reachable=true
+    @com.iago.pokewatch:anim/fragment_fast_out_extra_slow_in
+@com.iago.pokewatch:animator/fragment_close_exit : reachable=true
+    @com.iago.pokewatch:anim/fragment_fast_out_extra_slow_in
+@com.iago.pokewatch:animator/fragment_fade_enter : reachable=true
+@com.iago.pokewatch:animator/fragment_fade_exit : reachable=true
+@com.iago.pokewatch:animator/fragment_open_enter : reachable=true
+    @com.iago.pokewatch:anim/fragment_fast_out_extra_slow_in
+@com.iago.pokewatch:animator/fragment_open_exit : reachable=true
+    @com.iago.pokewatch:anim/fragment_fast_out_extra_slow_in
+@com.iago.pokewatch:attr/action : reachable=true
+@com.iago.pokewatch:attr/alpha : reachable=true
+@com.iago.pokewatch:attr/argType : reachable=false
+@com.iago.pokewatch:attr/buttonSize : reachable=true
+@com.iago.pokewatch:attr/circleCrop : reachable=false
+@com.iago.pokewatch:attr/colorScheme : reachable=false
+@com.iago.pokewatch:attr/data : reachable=true
+@com.iago.pokewatch:attr/dataPattern : reachable=true
+@com.iago.pokewatch:attr/destination : reachable=true
+@com.iago.pokewatch:attr/enterAnim : reachable=true
+@com.iago.pokewatch:attr/exitAnim : reachable=true
+@com.iago.pokewatch:attr/font : reachable=true
+@com.iago.pokewatch:attr/fontProviderAuthority : reachable=true
+@com.iago.pokewatch:attr/fontProviderCerts : reachable=true
+@com.iago.pokewatch:attr/fontProviderFetchStrategy : reachable=true
+@com.iago.pokewatch:attr/fontProviderFetchTimeout : reachable=true
+@com.iago.pokewatch:attr/fontProviderPackage : reachable=true
+@com.iago.pokewatch:attr/fontProviderQuery : reachable=true
+@com.iago.pokewatch:attr/fontProviderSystemFontFamily : reachable=true
+@com.iago.pokewatch:attr/fontStyle : reachable=true
+@com.iago.pokewatch:attr/fontVariationSettings : reachable=true
+@com.iago.pokewatch:attr/fontWeight : reachable=true
+@com.iago.pokewatch:attr/graph : reachable=true
+@com.iago.pokewatch:attr/imageAspectRatio : reachable=true
+@com.iago.pokewatch:attr/imageAspectRatioAdjust : reachable=true
+@com.iago.pokewatch:attr/lStar : reachable=true
+@com.iago.pokewatch:attr/launchSingleTop : reachable=false
+@com.iago.pokewatch:attr/mimeType : reachable=true
+@com.iago.pokewatch:attr/navGraph : reachable=false
+@com.iago.pokewatch:attr/nestedScrollViewStyle : reachable=false
+@com.iago.pokewatch:attr/nullable : reachable=true
+@com.iago.pokewatch:attr/popEnterAnim : reachable=false
+@com.iago.pokewatch:attr/popExitAnim : reachable=false
+@com.iago.pokewatch:attr/popUpTo : reachable=true
+@com.iago.pokewatch:attr/popUpToInclusive : reachable=true
+@com.iago.pokewatch:attr/popUpToSaveState : reachable=true
+@com.iago.pokewatch:attr/queryPatterns : reachable=false
+@com.iago.pokewatch:attr/restoreState : reachable=false
+@com.iago.pokewatch:attr/route : reachable=true
+@com.iago.pokewatch:attr/scopeUris : reachable=true
+@com.iago.pokewatch:attr/shortcutMatchRequired : reachable=true
+@com.iago.pokewatch:attr/startDestination : reachable=true
+@com.iago.pokewatch:attr/targetPackage : reachable=true
+@com.iago.pokewatch:attr/ttcIndex : reachable=true
+@com.iago.pokewatch:attr/uri : reachable=false
+@com.iago.pokewatch:color/androidx_core_ripple_material_light : reachable=false
+@com.iago.pokewatch:color/androidx_core_secondary_text_default_material_light : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_dark : reachable=false
+    @com.iago.pokewatch:color/common_google_signin_btn_text_dark_disabled
+    @com.iago.pokewatch:color/common_google_signin_btn_text_dark_pressed
+    @com.iago.pokewatch:color/common_google_signin_btn_text_dark_focused
+    @com.iago.pokewatch:color/common_google_signin_btn_text_dark_default
+@com.iago.pokewatch:color/common_google_signin_btn_text_dark_default : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_dark_disabled : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_dark_focused : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_dark_pressed : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_light : reachable=false
+    @com.iago.pokewatch:color/common_google_signin_btn_text_light_disabled
+    @com.iago.pokewatch:color/common_google_signin_btn_text_light_pressed
+    @com.iago.pokewatch:color/common_google_signin_btn_text_light_focused
+    @com.iago.pokewatch:color/common_google_signin_btn_text_light_default
+@com.iago.pokewatch:color/common_google_signin_btn_text_light_default : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_light_disabled : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_light_focused : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_text_light_pressed : reachable=false
+@com.iago.pokewatch:color/common_google_signin_btn_tint : reachable=false
+@com.iago.pokewatch:color/notification_action_color_filter : reachable=true
+    @com.iago.pokewatch:color/androidx_core_secondary_text_default_material_light
+@com.iago.pokewatch:color/notification_icon_bg_color : reachable=true
+@com.iago.pokewatch:color/vector_tint_color : reachable=true
+@com.iago.pokewatch:color/vector_tint_theme_color : reachable=true
+@com.iago.pokewatch:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.iago.pokewatch:dimen/compat_button_inset_vertical_material : reachable=false
+@com.iago.pokewatch:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.iago.pokewatch:dimen/compat_button_padding_vertical_material : reachable=false
+@com.iago.pokewatch:dimen/compat_control_corner_material : reachable=false
+@com.iago.pokewatch:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.iago.pokewatch:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.iago.pokewatch:dimen/notification_action_icon_size : reachable=true
+@com.iago.pokewatch:dimen/notification_action_text_size : reachable=true
+@com.iago.pokewatch:dimen/notification_big_circle_margin : reachable=true
+@com.iago.pokewatch:dimen/notification_content_margin_start : reachable=true
+@com.iago.pokewatch:dimen/notification_large_icon_height : reachable=true
+@com.iago.pokewatch:dimen/notification_large_icon_width : reachable=true
+@com.iago.pokewatch:dimen/notification_main_column_padding_top : reachable=true
+@com.iago.pokewatch:dimen/notification_media_narrow_margin : reachable=true
+@com.iago.pokewatch:dimen/notification_right_icon_size : reachable=true
+@com.iago.pokewatch:dimen/notification_right_side_padding_top : reachable=true
+@com.iago.pokewatch:dimen/notification_small_icon_background_padding : reachable=true
+@com.iago.pokewatch:dimen/notification_small_icon_size_as_large : reachable=true
+@com.iago.pokewatch:dimen/notification_subtext_size : reachable=true
+@com.iago.pokewatch:dimen/notification_top_pad : reachable=true
+@com.iago.pokewatch:dimen/notification_top_pad_large_text : reachable=true
+@com.iago.pokewatch:drawable/abc_vector_test : reachable=true
+@com.iago.pokewatch:drawable/bug : reachable=true
+@com.iago.pokewatch:drawable/circular_vignette_bottom : reachable=false
+@com.iago.pokewatch:drawable/circular_vignette_top : reachable=false
+@com.iago.pokewatch:drawable/common_full_open_on_phone : reachable=false
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_disabled
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_focused
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_focused : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_normal : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_normal_background
+    @com.iago.pokewatch:drawable/googleg_standard_color_18
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_dark_normal_background : reachable=false
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_disabled : reachable=false
+    @com.iago.pokewatch:drawable/googleg_disabled_color_18
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_light : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_disabled
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_focused
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_focused : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_normal : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_normal_background
+    @com.iago.pokewatch:drawable/googleg_standard_color_18
+@com.iago.pokewatch:drawable/common_google_signin_btn_icon_light_normal_background : reachable=false
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_dark : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_disabled
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_focused
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_focused : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_normal : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_normal_background
+    @com.iago.pokewatch:drawable/googleg_standard_color_18
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_dark_normal_background : reachable=false
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_disabled : reachable=false
+    @com.iago.pokewatch:drawable/googleg_disabled_color_18
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_light : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_disabled
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_light_focused
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_light_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_light_focused : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_light_normal
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_light_normal : reachable=false
+    @com.iago.pokewatch:drawable/common_google_signin_btn_text_light_normal_background
+    @com.iago.pokewatch:drawable/googleg_standard_color_18
+@com.iago.pokewatch:drawable/common_google_signin_btn_text_light_normal_background : reachable=false
+@com.iago.pokewatch:drawable/dark : reachable=true
+@com.iago.pokewatch:drawable/dragon : reachable=true
+@com.iago.pokewatch:drawable/eletric : reachable=true
+@com.iago.pokewatch:drawable/fairy : reachable=true
+@com.iago.pokewatch:drawable/fighting : reachable=true
+@com.iago.pokewatch:drawable/fire : reachable=true
+@com.iago.pokewatch:drawable/flying : reachable=true
+@com.iago.pokewatch:drawable/ghost : reachable=true
+@com.iago.pokewatch:drawable/googleg_disabled_color_18 : reachable=true
+@com.iago.pokewatch:drawable/googleg_standard_color_18 : reachable=true
+@com.iago.pokewatch:drawable/grass : reachable=true
+@com.iago.pokewatch:drawable/ground : reachable=true
+@com.iago.pokewatch:drawable/ic_100tb : reachable=false
+@com.iago.pokewatch:drawable/ice : reachable=true
+@com.iago.pokewatch:drawable/normal : reachable=true
+@com.iago.pokewatch:drawable/notification_action_background : reachable=true
+    @com.iago.pokewatch:color/androidx_core_ripple_material_light
+    @com.iago.pokewatch:dimen/compat_button_inset_horizontal_material
+    @com.iago.pokewatch:dimen/compat_button_inset_vertical_material
+    @com.iago.pokewatch:dimen/compat_control_corner_material
+    @com.iago.pokewatch:dimen/compat_button_padding_horizontal_material
+    @com.iago.pokewatch:dimen/compat_button_padding_vertical_material
+@com.iago.pokewatch:drawable/notification_bg : reachable=true
+    @com.iago.pokewatch:drawable/notification_bg_normal_pressed
+    @com.iago.pokewatch:drawable/notification_bg_normal
+@com.iago.pokewatch:drawable/notification_bg_low : reachable=true
+    @com.iago.pokewatch:drawable/notification_bg_low_pressed
+    @com.iago.pokewatch:drawable/notification_bg_low_normal
+@com.iago.pokewatch:drawable/notification_bg_low_normal : reachable=true
+@com.iago.pokewatch:drawable/notification_bg_low_pressed : reachable=true
+@com.iago.pokewatch:drawable/notification_bg_normal : reachable=true
+@com.iago.pokewatch:drawable/notification_bg_normal_pressed : reachable=true
+@com.iago.pokewatch:drawable/notification_icon_background : reachable=true
+    @com.iago.pokewatch:color/notification_icon_bg_color
+@com.iago.pokewatch:drawable/notification_template_icon_bg : reachable=true
+@com.iago.pokewatch:drawable/notification_template_icon_low_bg : reachable=true
+@com.iago.pokewatch:drawable/notification_tile_bg : reachable=true
+    @com.iago.pokewatch:drawable/notify_panel_notification_icon_bg
+@com.iago.pokewatch:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.iago.pokewatch:drawable/poison : reachable=true
+@com.iago.pokewatch:drawable/psychic : reachable=true
+@com.iago.pokewatch:drawable/rectangular_vignette_bottom : reachable=true
+@com.iago.pokewatch:drawable/rectangular_vignette_top : reachable=true
+@com.iago.pokewatch:drawable/rock : reachable=true
+@com.iago.pokewatch:drawable/steel : reachable=true
+@com.iago.pokewatch:drawable/water : reachable=true
+@com.iago.pokewatch:font/nunito_black : reachable=true
+@com.iago.pokewatch:font/nunito_blackitalic : reachable=true
+@com.iago.pokewatch:font/nunito_bold : reachable=true
+@com.iago.pokewatch:font/nunito_bolditalic : reachable=true
+@com.iago.pokewatch:font/nunito_extrabold : reachable=true
+@com.iago.pokewatch:font/nunito_extrabolditalic : reachable=true
+@com.iago.pokewatch:font/nunito_extralight : reachable=true
+@com.iago.pokewatch:font/nunito_extralightitalic : reachable=true
+@com.iago.pokewatch:font/nunito_italic : reachable=true
+@com.iago.pokewatch:font/nunito_light : reachable=true
+@com.iago.pokewatch:font/nunito_lightitalic : reachable=true
+@com.iago.pokewatch:font/nunito_medium : reachable=true
+@com.iago.pokewatch:font/nunito_mediumitalic : reachable=true
+@com.iago.pokewatch:font/nunito_regular : reachable=true
+@com.iago.pokewatch:font/nunito_semibold : reachable=true
+@com.iago.pokewatch:font/nunito_semibolditalic : reachable=true
+@com.iago.pokewatch:id/accessibility_action_clickable_span : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_0 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_1 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_10 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_11 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_12 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_13 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_14 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_15 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_16 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_17 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_18 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_19 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_2 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_20 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_21 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_22 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_23 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_24 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_25 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_26 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_27 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_28 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_29 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_3 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_30 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_31 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_4 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_5 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_6 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_7 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_8 : reachable=true
+@com.iago.pokewatch:id/accessibility_custom_action_9 : reachable=true
+@com.iago.pokewatch:id/action_container : reachable=true
+@com.iago.pokewatch:id/action_divider : reachable=true
+@com.iago.pokewatch:id/action_image : reachable=true
+@com.iago.pokewatch:id/action_text : reachable=true
+@com.iago.pokewatch:id/actions : reachable=true
+@com.iago.pokewatch:id/adjust_height : reachable=false
+@com.iago.pokewatch:id/adjust_width : reachable=false
+@com.iago.pokewatch:id/androidx_compose_ui_view_composition_context : reachable=true
+@com.iago.pokewatch:id/async : reachable=false
+@com.iago.pokewatch:id/auto : reachable=false
+@com.iago.pokewatch:id/blocking : reachable=true
+@com.iago.pokewatch:id/chronometer : reachable=false
+@com.iago.pokewatch:id/coil_request_manager : reachable=true
+@com.iago.pokewatch:id/compose_view_saveable_id_tag : reachable=true
+@com.iago.pokewatch:id/consume_window_insets_tag : reachable=false
+@com.iago.pokewatch:id/dark : reachable=true
+@com.iago.pokewatch:id/dialog_button : reachable=true
+@com.iago.pokewatch:id/forever : reachable=false
+@com.iago.pokewatch:id/fragment_container_view_tag : reachable=true
+@com.iago.pokewatch:id/hide_in_inspector_tag : reachable=true
+@com.iago.pokewatch:id/icon : reachable=true
+@com.iago.pokewatch:id/icon_group : reachable=true
+@com.iago.pokewatch:id/icon_only : reachable=true
+@com.iago.pokewatch:id/info : reachable=true
+@com.iago.pokewatch:id/inspection_slot_table_set : reachable=true
+@com.iago.pokewatch:id/is_pooling_container_tag : reachable=true
+@com.iago.pokewatch:id/italic : reachable=true
+@com.iago.pokewatch:id/item1 : reachable=true
+@com.iago.pokewatch:id/item2 : reachable=true
+@com.iago.pokewatch:id/item3 : reachable=true
+@com.iago.pokewatch:id/item4 : reachable=true
+@com.iago.pokewatch:id/light : reachable=false
+@com.iago.pokewatch:id/line1 : reachable=true
+@com.iago.pokewatch:id/line3 : reachable=true
+@com.iago.pokewatch:id/nav_controller_view_tag : reachable=false
+@com.iago.pokewatch:id/none : reachable=true
+@com.iago.pokewatch:id/normal : reachable=true
+@com.iago.pokewatch:id/notification_background : reachable=true
+@com.iago.pokewatch:id/notification_main_column : reachable=true
+@com.iago.pokewatch:id/notification_main_column_container : reachable=true
+@com.iago.pokewatch:id/pooling_container_listener_holder_tag : reachable=true
+@com.iago.pokewatch:id/right_icon : reachable=false
+@com.iago.pokewatch:id/right_side : reachable=false
+@com.iago.pokewatch:id/special_effects_controller_view_tag : reachable=true
+@com.iago.pokewatch:id/standard : reachable=false
+@com.iago.pokewatch:id/tag_accessibility_actions : reachable=true
+@com.iago.pokewatch:id/tag_accessibility_clickable_spans : reachable=true
+@com.iago.pokewatch:id/tag_accessibility_heading : reachable=true
+@com.iago.pokewatch:id/tag_accessibility_pane_title : reachable=true
+@com.iago.pokewatch:id/tag_on_apply_window_listener : reachable=true
+@com.iago.pokewatch:id/tag_on_receive_content_listener : reachable=true
+@com.iago.pokewatch:id/tag_on_receive_content_mime_types : reachable=true
+@com.iago.pokewatch:id/tag_screen_reader_focusable : reachable=true
+@com.iago.pokewatch:id/tag_state_description : reachable=true
+@com.iago.pokewatch:id/tag_transition_group : reachable=true
+@com.iago.pokewatch:id/tag_unhandled_key_event_manager : reachable=true
+@com.iago.pokewatch:id/tag_unhandled_key_listeners : reachable=true
+@com.iago.pokewatch:id/tag_window_insets_animation_callback : reachable=true
+@com.iago.pokewatch:id/text : reachable=true
+@com.iago.pokewatch:id/text2 : reachable=true
+@com.iago.pokewatch:id/time : reachable=false
+@com.iago.pokewatch:id/title : reachable=true
+@com.iago.pokewatch:id/view_tree_lifecycle_owner : reachable=true
+@com.iago.pokewatch:id/view_tree_saved_state_registry_owner : reachable=true
+@com.iago.pokewatch:id/view_tree_view_model_store_owner : reachable=true
+@com.iago.pokewatch:id/visible_removing_fragment_view_tag : reachable=true
+@com.iago.pokewatch:id/wide : reachable=false
+@com.iago.pokewatch:id/wrapped_composition_tag : reachable=true
+@com.iago.pokewatch:integer/google_play_services_version : reachable=true
+@com.iago.pokewatch:integer/status_bar_notification_info_maxnum : reachable=false
+@com.iago.pokewatch:layout/custom_dialog : reachable=false
+@com.iago.pokewatch:layout/notification_action : reachable=true
+    @com.iago.pokewatch:style/Widget_Compat_NotificationActionContainer
+    @com.iago.pokewatch:dimen/notification_action_icon_size
+    @com.iago.pokewatch:style/Widget_Compat_NotificationActionText
+@com.iago.pokewatch:layout/notification_action_tombstone : reachable=true
+    @com.iago.pokewatch:style/Widget_Compat_NotificationActionContainer
+    @com.iago.pokewatch:dimen/notification_action_icon_size
+    @com.iago.pokewatch:style/Widget_Compat_NotificationActionText
+@com.iago.pokewatch:layout/notification_template_custom_big : reachable=true
+    @com.iago.pokewatch:layout/notification_template_icon_group
+    @com.iago.pokewatch:dimen/notification_large_icon_width
+    @com.iago.pokewatch:dimen/notification_large_icon_height
+    @com.iago.pokewatch:dimen/notification_right_side_padding_top
+    @com.iago.pokewatch:layout/notification_template_part_time
+    @com.iago.pokewatch:layout/notification_template_part_chronometer
+    @com.iago.pokewatch:style/TextAppearance_Compat_Notification_Info
+@com.iago.pokewatch:layout/notification_template_icon_group : reachable=true
+    @com.iago.pokewatch:dimen/notification_large_icon_width
+    @com.iago.pokewatch:dimen/notification_large_icon_height
+    @com.iago.pokewatch:dimen/notification_big_circle_margin
+    @com.iago.pokewatch:dimen/notification_right_icon_size
+@com.iago.pokewatch:layout/notification_template_part_chronometer : reachable=true
+    @com.iago.pokewatch:style/TextAppearance_Compat_Notification_Time
+@com.iago.pokewatch:layout/notification_template_part_time : reachable=true
+    @com.iago.pokewatch:style/TextAppearance_Compat_Notification_Time
+@com.iago.pokewatch:menu/example_menu : reachable=false
+@com.iago.pokewatch:menu/example_menu2 : reachable=false
+@com.iago.pokewatch:mipmap/ic_launcher : reachable=true
+@com.iago.pokewatch:mipmap/ic_launcher_round : reachable=false
+@com.iago.pokewatch:string/androidx_startup : reachable=true
+@com.iago.pokewatch:string/app_name : reachable=true
+@com.iago.pokewatch:string/close_drawer : reachable=true
+@com.iago.pokewatch:string/close_sheet : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_enable_button : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_enable_text : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_enable_title : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_install_button : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_install_text : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_install_title : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_notification_channel_name : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_notification_ticker : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_unknown_issue : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_unsupported_text : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_update_button : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_update_text : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_update_title : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_updating_text : reachable=true
+@com.iago.pokewatch:string/common_google_play_services_wear_update_text : reachable=false
+@com.iago.pokewatch:string/common_open_on_phone : reachable=false
+@com.iago.pokewatch:string/common_signin_button_text : reachable=false
+@com.iago.pokewatch:string/common_signin_button_text_long : reachable=false
+@com.iago.pokewatch:string/default_error_message : reachable=true
+@com.iago.pokewatch:string/default_popup_window_title : reachable=true
+@com.iago.pokewatch:string/dropdown_menu : reachable=false
+@com.iago.pokewatch:string/error_default : reachable=true
+@com.iago.pokewatch:string/hello_world : reachable=false
+@com.iago.pokewatch:string/icon_reload : reachable=true
+@com.iago.pokewatch:string/in_progress : reachable=true
+@com.iago.pokewatch:string/indeterminate : reachable=true
+@com.iago.pokewatch:string/navigation_menu : reachable=true
+@com.iago.pokewatch:string/not_selected : reachable=true
+@com.iago.pokewatch:string/off : reachable=true
+@com.iago.pokewatch:string/on : reachable=true
+@com.iago.pokewatch:string/range_end : reachable=true
+@com.iago.pokewatch:string/range_start : reachable=true
+@com.iago.pokewatch:string/selected : reachable=true
+@com.iago.pokewatch:string/status_bar_notification_info_overflow : reachable=false
+@com.iago.pokewatch:string/tab : reachable=true
+@com.iago.pokewatch:string/template_percent : reachable=true
+@com.iago.pokewatch:style/DialogWindowTheme : reachable=false
+@com.iago.pokewatch:style/TextAppearance_Compat_Notification : reachable=true
+@com.iago.pokewatch:style/TextAppearance_Compat_Notification_Info : reachable=true
+@com.iago.pokewatch:style/TextAppearance_Compat_Notification_Line2 : reachable=true
+    @com.iago.pokewatch:style/TextAppearance_Compat_Notification_Info
+@com.iago.pokewatch:style/TextAppearance_Compat_Notification_Time : reachable=true
+@com.iago.pokewatch:style/TextAppearance_Compat_Notification_Title : reachable=true
+@com.iago.pokewatch:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.iago.pokewatch:drawable/notification_action_background
+@com.iago.pokewatch:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.iago.pokewatch:color/androidx_core_secondary_text_default_material_light
+    @com.iago.pokewatch:dimen/notification_action_text_size
+
+The root reachable resources are:
+ anim:fragment_fast_out_extra_slow_in:2130771968
+ animator:fragment_close_enter:2130837504
+ animator:fragment_close_exit:2130837505
+ animator:fragment_fade_enter:2130837506
+ animator:fragment_fade_exit:2130837507
+ animator:fragment_open_enter:2130837508
+ animator:fragment_open_exit:2130837509
+ attr:action:2130903040
+ attr:alpha:2130903041
+ attr:buttonSize:2130903043
+ attr:data:2130903046
+ attr:dataPattern:2130903047
+ attr:destination:2130903048
+ attr:enterAnim:2130903049
+ attr:exitAnim:2130903050
+ attr:font:2130903051
+ attr:fontProviderAuthority:2130903052
+ attr:fontProviderCerts:2130903053
+ attr:fontProviderFetchStrategy:2130903054
+ attr:fontProviderFetchTimeout:2130903055
+ attr:fontProviderPackage:2130903056
+ attr:fontProviderQuery:2130903057
+ attr:fontProviderSystemFontFamily:2130903058
+ attr:fontStyle:2130903059
+ attr:fontVariationSettings:2130903060
+ attr:fontWeight:2130903061
+ attr:graph:2130903062
+ attr:imageAspectRatio:2130903063
+ attr:imageAspectRatioAdjust:2130903064
+ attr:lStar:2130903065
+ attr:mimeType:2130903067
+ attr:nullable:2130903070
+ attr:popUpTo:2130903073
+ attr:popUpToInclusive:2130903074
+ attr:popUpToSaveState:2130903075
+ attr:route:2130903078
+ attr:scopeUris:2130903079
+ attr:shortcutMatchRequired:2130903080
+ attr:startDestination:2130903081
+ attr:targetPackage:2130903082
+ attr:ttcIndex:2130903083
+ color:notification_action_color_filter:2130968589
+ color:notification_icon_bg_color:2130968590
+ color:vector_tint_color:2130968591
+ color:vector_tint_theme_color:2130968592
+ dimen:notification_action_icon_size:2131034119
+ dimen:notification_action_text_size:2131034120
+ dimen:notification_big_circle_margin:2131034121
+ dimen:notification_content_margin_start:2131034122
+ dimen:notification_large_icon_height:2131034123
+ dimen:notification_large_icon_width:2131034124
+ dimen:notification_main_column_padding_top:2131034125
+ dimen:notification_media_narrow_margin:2131034126
+ dimen:notification_right_icon_size:2131034127
+ dimen:notification_right_side_padding_top:2131034128
+ dimen:notification_small_icon_background_padding:2131034129
+ dimen:notification_small_icon_size_as_large:2131034130
+ dimen:notification_subtext_size:2131034131
+ dimen:notification_top_pad:2131034132
+ dimen:notification_top_pad_large_text:2131034133
+ drawable:abc_vector_test:2131099648
+ drawable:bug:2131099649
+ drawable:dark:2131099671
+ drawable:dragon:2131099672
+ drawable:eletric:2131099673
+ drawable:fairy:2131099674
+ drawable:fighting:2131099675
+ drawable:fire:2131099676
+ drawable:flying:2131099677
+ drawable:ghost:2131099678
+ drawable:googleg_disabled_color_18:2131099679
+ drawable:googleg_standard_color_18:2131099680
+ drawable:grass:2131099681
+ drawable:ground:2131099682
+ drawable:ice:2131099684
+ drawable:normal:2131099685
+ drawable:notification_action_background:2131099686
+ drawable:notification_bg:2131099687
+ drawable:notification_bg_low:2131099688
+ drawable:notification_bg_low_normal:2131099689
+ drawable:notification_bg_low_pressed:2131099690
+ drawable:notification_bg_normal:2131099691
+ drawable:notification_bg_normal_pressed:2131099692
+ drawable:notification_icon_background:2131099693
+ drawable:notification_template_icon_bg:2131099694
+ drawable:notification_template_icon_low_bg:2131099695
+ drawable:notification_tile_bg:2131099696
+ drawable:poison:2131099698
+ drawable:psychic:2131099699
+ drawable:rectangular_vignette_bottom:2131099700
+ drawable:rectangular_vignette_top:2131099701
+ drawable:rock:2131099702
+ drawable:steel:2131099703
+ drawable:water:2131099704
+ font:nunito_black:2131165184
+ font:nunito_blackitalic:2131165185
+ font:nunito_bold:2131165186
+ font:nunito_bolditalic:2131165187
+ font:nunito_extrabold:2131165188
+ font:nunito_extrabolditalic:2131165189
+ font:nunito_extralight:2131165190
+ font:nunito_extralightitalic:2131165191
+ font:nunito_italic:2131165192
+ font:nunito_light:2131165193
+ font:nunito_lightitalic:2131165194
+ font:nunito_medium:2131165195
+ font:nunito_mediumitalic:2131165196
+ font:nunito_regular:2131165197
+ font:nunito_semibold:2131165198
+ font:nunito_semibolditalic:2131165199
+ id:accessibility_action_clickable_span:2131230720
+ id:accessibility_custom_action_0:2131230721
+ id:accessibility_custom_action_1:2131230722
+ id:accessibility_custom_action_10:2131230723
+ id:accessibility_custom_action_11:2131230724
+ id:accessibility_custom_action_12:2131230725
+ id:accessibility_custom_action_13:2131230726
+ id:accessibility_custom_action_14:2131230727
+ id:accessibility_custom_action_15:2131230728
+ id:accessibility_custom_action_16:2131230729
+ id:accessibility_custom_action_17:2131230730
+ id:accessibility_custom_action_18:2131230731
+ id:accessibility_custom_action_19:2131230732
+ id:accessibility_custom_action_2:2131230733
+ id:accessibility_custom_action_20:2131230734
+ id:accessibility_custom_action_21:2131230735
+ id:accessibility_custom_action_22:2131230736
+ id:accessibility_custom_action_23:2131230737
+ id:accessibility_custom_action_24:2131230738
+ id:accessibility_custom_action_25:2131230739
+ id:accessibility_custom_action_26:2131230740
+ id:accessibility_custom_action_27:2131230741
+ id:accessibility_custom_action_28:2131230742
+ id:accessibility_custom_action_29:2131230743
+ id:accessibility_custom_action_3:2131230744
+ id:accessibility_custom_action_30:2131230745
+ id:accessibility_custom_action_31:2131230746
+ id:accessibility_custom_action_4:2131230747
+ id:accessibility_custom_action_5:2131230748
+ id:accessibility_custom_action_6:2131230749
+ id:accessibility_custom_action_7:2131230750
+ id:accessibility_custom_action_8:2131230751
+ id:accessibility_custom_action_9:2131230752
+ id:action_container:2131230753
+ id:action_divider:2131230754
+ id:action_image:2131230755
+ id:action_text:2131230756
+ id:actions:2131230757
+ id:androidx_compose_ui_view_composition_context:2131230760
+ id:blocking:2131230763
+ id:coil_request_manager:2131230765
+ id:compose_view_saveable_id_tag:2131230766
+ id:dark:2131230768
+ id:dialog_button:2131230769
+ id:fragment_container_view_tag:2131230771
+ id:hide_in_inspector_tag:2131230772
+ id:icon:2131230773
+ id:icon_group:2131230774
+ id:icon_only:2131230775
+ id:info:2131230776
+ id:inspection_slot_table_set:2131230777
+ id:is_pooling_container_tag:2131230778
+ id:italic:2131230779
+ id:item1:2131230780
+ id:item2:2131230781
+ id:item3:2131230782
+ id:item4:2131230783
+ id:line1:2131230785
+ id:line3:2131230786
+ id:none:2131230788
+ id:normal:2131230789
+ id:notification_background:2131230790
+ id:notification_main_column:2131230791
+ id:notification_main_column_container:2131230792
+ id:pooling_container_listener_holder_tag:2131230793
+ id:special_effects_controller_view_tag:2131230796
+ id:tag_accessibility_actions:2131230798
+ id:tag_accessibility_clickable_spans:2131230799
+ id:tag_accessibility_heading:2131230800
+ id:tag_accessibility_pane_title:2131230801
+ id:tag_on_apply_window_listener:2131230802
+ id:tag_on_receive_content_listener:2131230803
+ id:tag_on_receive_content_mime_types:2131230804
+ id:tag_screen_reader_focusable:2131230805
+ id:tag_state_description:2131230806
+ id:tag_transition_group:2131230807
+ id:tag_unhandled_key_event_manager:2131230808
+ id:tag_unhandled_key_listeners:2131230809
+ id:tag_window_insets_animation_callback:2131230810
+ id:text:2131230811
+ id:text2:2131230812
+ id:title:2131230814
+ id:view_tree_lifecycle_owner:2131230815
+ id:view_tree_saved_state_registry_owner:2131230816
+ id:view_tree_view_model_store_owner:2131230817
+ id:visible_removing_fragment_view_tag:2131230818
+ id:wrapped_composition_tag:2131230820
+ integer:google_play_services_version:2131296256
+ layout:notification_action:2131361793
+ layout:notification_action_tombstone:2131361794
+ layout:notification_template_custom_big:2131361795
+ layout:notification_template_icon_group:2131361796
+ layout:notification_template_part_chronometer:2131361797
+ layout:notification_template_part_time:2131361798
+ mipmap:ic_launcher:2131492864
+ string:androidx_startup:2131558400
+ string:app_name:2131558401
+ string:close_drawer:2131558402
+ string:close_sheet:2131558403
+ string:common_google_play_services_enable_button:2131558404
+ string:common_google_play_services_enable_text:2131558405
+ string:common_google_play_services_enable_title:2131558406
+ string:common_google_play_services_install_button:2131558407
+ string:common_google_play_services_install_text:2131558408
+ string:common_google_play_services_install_title:2131558409
+ string:common_google_play_services_notification_channel_name:2131558410
+ string:common_google_play_services_notification_ticker:2131558411
+ string:common_google_play_services_unknown_issue:2131558412
+ string:common_google_play_services_unsupported_text:2131558413
+ string:common_google_play_services_update_button:2131558414
+ string:common_google_play_services_update_text:2131558415
+ string:common_google_play_services_update_title:2131558416
+ string:common_google_play_services_updating_text:2131558417
+ string:default_error_message:2131558422
+ string:default_popup_window_title:2131558423
+ string:error_default:2131558425
+ string:icon_reload:2131558427
+ string:in_progress:2131558428
+ string:indeterminate:2131558429
+ string:navigation_menu:2131558430
+ string:not_selected:2131558431
+ string:off:2131558432
+ string:on:2131558433
+ string:range_end:2131558434
+ string:range_start:2131558435
+ string:selected:2131558436
+ string:tab:2131558438
+ string:template_percent:2131558439
+ style:TextAppearance_Compat_Notification:2131623937
+ style:TextAppearance_Compat_Notification_Info:2131623938
+ style:TextAppearance_Compat_Notification_Line2:2131623939
+ style:TextAppearance_Compat_Notification_Time:2131623940
+ style:TextAppearance_Compat_Notification_Title:2131623941
+Skipped unused resource base/res/color/common_google_signin_btn_text_dark.xml: 1105 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/color/common_google_signin_btn_text_light.xml: 1113 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/color/common_google_signin_btn_tint.xml: 409 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/circular_vignette_bottom.png: 8780 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/drawable/circular_vignette_top.png: 8610 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_dark.xml: 844 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_dark_focused.xml: 1017 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_dark_normal.xml: 567 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_disabled.xml: 1261 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_light.xml: 848 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_light_focused.xml: 1019 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_icon_light_normal.xml: 569 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_dark.xml: 844 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_dark_focused.xml: 1017 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_dark_normal.xml: 659 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_disabled.xml: 1355 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_light.xml: 848 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_light_focused.xml: 1019 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/common_google_signin_btn_text_light_normal.xml: 661 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable/ic_100tb.xml: 4263 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png: 610 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png: 500 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png: 615 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png: 465 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-hdpi-v4/common_full_open_on_phone.png: 681 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png: 897 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png: 683 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png: 960 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png: 694 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xhdpi-v4/common_full_open_on_phone.png: 489 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png: 1032 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png: 776 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png: 1086 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png: 808 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png: 1510 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png: 1138 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png: 1638 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png: 1255 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource base/res/layout/custom_dialog.xml: 828 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/menu/example_menu.xml: 428 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/menu/example_menu2.xml: 428 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource base/res/mipmap-mdpi-v4/ic_launcher_round.png: 3139 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/mipmap-hdpi-v4/ic_launcher_round.png: 5833 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/mipmap-xhdpi-v4/ic_launcher_round.png: 6405 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/mipmap-xxhdpi-v4/ic_launcher_round.png: 13119 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource base/res/mipmap-xxxhdpi-v4/ic_launcher_round.png: 15384 bytes (replaced with small dummy file of size 67 bytes)
